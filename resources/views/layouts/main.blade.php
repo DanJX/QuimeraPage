@@ -45,8 +45,7 @@
     {{-- MAIN --}}
     <div class="page-wrapper">
         {{-- HEADER --}}
-        <div class="site-header__header-one site-header__home-two-wrap">
-            <header class="main-nav__header-one site-header__home-two  site-header__home-5">
+            <header class="main-nav__header-three">
                 <nav class="header-navigation stricky">
                     <div class="container">
                         {{-- LOGO --}}
@@ -55,21 +54,16 @@
                                 <img src="{{ asset('assets/images/logo.png') }}" class="main-logo" width="123"
                                     alt="Logotipo Quimera" />
                             </a>
-                            <span class="main-nav__logo-box__sep"></span>
-                            <a href="#" class="side-menu__toggler"></a>
+                            <a href="#" class="side-menu__toggler"><i class="fa fa-bars"></i></a>
                         </div>
                         {{-- MENU --}}
                         <div class="main-nav__main-navigation">
-                            <ul class=" main-nav__navigation-box">
+                            <ul class="main-nav__navigation-box">
                                 <li>
-                                    <a href="/">Home</a>
+                                    <a href="/gallery">Gallery</a>
                                 </li>
-                                <li class="dropdown">
-                                    <a>Portfolio</a>
-                                    <ul>
-                                        <li><a href="/gallery">Gallery</a></li>
-                                        <li><a href="/videos">Videos</a></li>
-                                    </ul>
+                                <li>
+                                    <a href="/videos">Videos</a>
                                 </li>
                                 <li>
                                     <a href="/about">About us</a>
@@ -82,14 +76,12 @@
                     </div>
                 </nav>
             </header>
-        </div>
         {{-- BODY --}}
         @yield('main-body')
         {{-- COPYRIGHT & SOCIAL MEDIA --}}
-        <div class="site-footer__bottom">
+        <div class="site-footer__bottom site-footer__bottom-home-3">
             <div class="container">
-                <a href="/" class="footer-widget__logo">
-                    <img src="{{ asset('assets/images/logo.png') }}" width="123" alt=""></a>
+                <p>@ All copyright 2024, Quimera</p>
                 <div class="site-footer__social">
                     <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
                     <a href="#"><i class="fa-brands fa-facebook-f"></i></a>

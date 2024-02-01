@@ -6,17 +6,6 @@
 @endsection
 
 @section('main-body')
-    {{-- BANNER --}}
-    <section class="page-header"
-        style="background-image: url({{ asset('assets/images/backgrounds/page-header-contact.jpg') }});">
-        <div class="container">
-            <h2>Contact</h2>
-            <ul class="thm-breadcrumb list-unstyled">
-                <li><a href="/">Home</a></li>
-                <li><span>Contact</span></li>
-            </ul>
-        </div>
-    </section>
     {{-- INFO EMPRESA --}}
     <section class="contact-info-one">
         <div class="container">

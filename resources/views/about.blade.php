@@ -6,17 +6,6 @@
 @endsection
 
 @section('main-body')
-    {{-- BANNER --}}
-    <section class="page-header"
-        style="background-image: url({{ asset('assets/images/backgrounds/page-header-contact.jpg') }});">
-        <div class="container">
-            <h2>About Us</h2>
-            <ul class="thm-breadcrumb list-unstyled">
-                <li><a href="/">Home</a></li>
-                <li><span>About</span></li>
-            </ul>
-        </div>
-    </section>
     {{-- INFO --}}
     <section class="cta-two">
         <div class="container">
@@ -43,15 +32,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    {{-- VIDEO --}}
-    <section class="video-one" style="background-image: url(assets/images/backgrounds/video-bg-1-1.jpg);">
-        <div class="container text-center">
-            <a href="https://www.youtube.com/watch?v=i9E_Blai8vk" class="video-one__btn video-popup"><i
-                    class="fa fa-play"></i></a>
-            <p>Pellentesque malesuada ullamcorper porttitor</p>
-            <h3><span>Lorem</span> Duis vitae turpis<br> ac nisl <span>ullamcorper tempor</span></h3>
         </div>
     </section>
 @endsection

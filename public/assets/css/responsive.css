@@ -240,9 +240,6 @@
 }
 
 @media(max-width: 767px) {
-	.stricked-menu {
-		display: none;
-	}
 	.main-nav__header-one {
 		background-color: var(--thm-gray);
 	}
