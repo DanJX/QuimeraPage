@@ -6,97 +6,64 @@
 @endsection
 
 @section('main-body')
-    {{-- INFO EMPRESA --}}
-    <section class="contact-info-one">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="contact-info-one__single">
-                        <div class="contact-info-one__icon">
-                            <i class="tripo-icon-placeholder"></i>
-                        </div>
-                        <div class="contact-info-one__content">
-                            <p>77 Broklyn Street, D Capital <br>
-                                Road New York. USA 6666</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="contact-info-one__single">
-                        <div class="contact-info-one__icon">
-                            <i class="tripo-icon-phone-call"></i>
-                        </div>
-                        <div class="contact-info-one__content">
-                            <p><a href="">666 999 0000</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="contact-info-one__single">
-                        <div class="contact-info-one__icon">
-                            <i class="tripo-icon-message"></i>
-                        </div>
-                        <div class="contact-info-one__content">
-                            <p><a href="">example@example.com</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    {{-- TXT & FORM --}}
     <section class="contact-one">
         <div class="container">
             <div class="row">
                 {{-- INFO --}}
                 <div class="col-lg-5">
                     <div class="contact-one__content">
-                        <div class="block-title text-left">
-                            <p>Contact with us</p>
-                            <h3>Have any Question? <br>
-                                feel free to contact <br>
-                                with us.</h3>
-                        </div>
-                        <div class="contact-one__content-text">
-                            <p>Lorem ipsum available isn but the majority have suffered alteratin <br> in some or form
-                                injected.</p>
+                        <div class="block-title text-center">
+                            <h2 class="mb-4">Contact Us</h2>
+                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nam in illum, saepe ratione
+                                dicta! Velit excepturi assumenda consequuntur. Voluptas molestiae cumque perferendis aut,
+                                enim minima libero quas repellendus eius.</p>
+                            <div class="mt-5 d-flex flex-column">
+                                <h4>Address</h4>
+                                <p>Lorem ipsum dolor sit, amet consectetur</p>
+                                <h4 class="mt-5">Phone</h4>
+                                <p>Lorem ipsum dolor sit, amet consectetur</p>
+                                <h4 class="mt-5">Email</h4>
+                                <p>Lorem ipsum dolor sit, amet consectetur</p>
+                            </div>
                         </div>
                     </div>
                 </div>
                 {{-- FORM --}}
                 <div class="col-lg-7">
-                    <div class="contact-one__form">
-                        <div class="row low-gutters">
-                            <div class="col-md-6">
-                                <div class="input-group">
-                                    <input type="text" name="name" placeholder="Your Name">
+                    <div class="contact-form">
+                        <div class="contact-one__form">
+                            <h2 class="text-center white">Contact Form</h2>
+                            <div class="row low-gutters">
+                                <div class="col-md-12">
+                                    <div class="input-group">
+                                        <input type="text" name="name" placeholder="Your Name">
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="input-group">
-                                    <input type="text" name="email" placeholder="Email Address">
+                                <div class="col-md-12">
+                                    <div class="input-group">
+                                        <input type="text" name="email" placeholder="Email Address">
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="input-group">
-                                    <input type="text" name="phone" placeholder="Phone Number">
+                                <div class="col-md-12">
+                                    <div class="input-group">
+                                        <input type="text" name="phone" placeholder="Phone Number">
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="input-group">
-                                    <input type="text" name="subject" placeholder="Subject">
+                                <div class="col-md-12">
+                                    <div class="input-group">
+                                        <input type="text" name="subject" placeholder="Subject">
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="input-group">
-                                    <textarea name="message" placeholder="Write Message"></textarea>
+                                <div class="col-md-12">
+                                    <div class="input-group">
+                                        <textarea name="message" placeholder="Write Message"></textarea>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="input-group">
-                                    <button type="submit" class="thm-btn contact-one__btn">Send
-                                        message</button>
+                                <div class="row d-flex justify-content-center w-100 mt-5">
+                                    <div class="col-md-4">
+                                        <button type="submit" class="thm-btn contact-one__btn">Send
+                                            message</button>
+                                    </div>
                                 </div>
                             </div>
                         </div>

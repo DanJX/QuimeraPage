@@ -42,7 +42,7 @@ font-family: 'Satisfy', cursive;*/
 
 :root {
 	--thm-font: 'Barlow Condensed', sans-serif;
-	--heading-font: 'Satisfy', cursive;
+	/* --heading-font: 'Satisfy', cursive; */
 	--thm-base: #ffffff;
 	--thm-base-rgb: 255, 168, 1;
 	--thm-primary: #ffffff;
@@ -57,7 +57,7 @@ font-family: 'Satisfy', cursive;*/
 
 body {
 	font-family: var(--thm-font);
-	color: #7c859b;
+	color: #ffffff;
 	font-size: 18px;
 	line-height: 34px;
 	font-weight: 500;
@@ -706,7 +706,7 @@ h6 {
 	color: white;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 993px) {
 	.main-nav__header-one .container {
 		max-width: 100%;
 		padding-left: 0;
@@ -734,7 +734,7 @@ h6 {
 }
 
 
-@media(max-width: 1199px) {
+@media(max-width: 993px) {
 	.main-nav__logo-box {
 		padding: 20px 0;
 		display: -webkit-box;
@@ -779,7 +779,7 @@ h6 {
 
 .main-nav__main-navigation .main-nav__navigation-box>li {
 	position: relative;
-	padding: 44.5px 0px;
+	padding: 44.5px 25px;
 }
 
 .main-nav__main-navigation .main-nav__navigation-box>li>a {
@@ -978,6 +978,7 @@ h6 {
 	left: 0;
 	width: 100%;
 	z-index: 100;
+	linear-gradient(to bottom, rgba(0, 0, 0, 0.72), rgba(1, 1, 1, 0));
 }
 
 .site-header__home-two .main-nav__logo-box {
@@ -1085,7 +1086,7 @@ h6 {
 
 
 .main-nav__header-three {
-	background-color: #000000;
+	background-color: transparent;
 }
 
 .main-nav__header-three .stricked-menu {
@@ -1114,7 +1115,7 @@ h6 {
 .main-nav__header-three .main-nav__main-navigation {
 	-webkit-box-pack: center;
 	justify-content: center;
-	/* margin-left: auto; */
+	margin-left: auto;
 }
 
 .main-nav__header-four .main-nav__main-navigation .main-nav__navigation-box>li,
@@ -2206,6 +2207,8 @@ h6 {
 
 .banner-three__wrap {
 	position: relative;
+	background: linear-gradient(#00000084,#000000),url(../images/quimera-home.jpeg) center center;
+	background-size: cover;
 }
 
 .banner-three__floated-text {
@@ -2257,8 +2260,8 @@ h6 {
 }
 
 .banner-three__box {
-	padding-top: 140px;
-	padding-bottom: 90px;
+	padding: 0;
+	margin: 40px;
 }
 
 .banner-three__col {
@@ -2912,7 +2915,7 @@ h6 {
 --------------------------------------------------------------*/
 
 .contact-one {
-	padding-bottom: 120px;
+	padding: 180px 0 40px;
 }
 
 .contact-one .block-title {
@@ -2988,22 +2991,29 @@ h6 {
 	margin-bottom: 10px;
 }
 
+.contact-form{
+	box-shadow: -1px 0px 33px 1px rgb(60, 59, 59);
+	border-radius: 15px;
+	padding: 20px;
+}
+
 .contact-one__form .input-group input:not([type="checkbox"]):not([type="radio"]):not([type="submit"]):not([type="reset"]),
 .contact-one__form .input-group textarea {
 	width: 100%;
 	height: 74px;
 	display: block;
-	border: none;
 	outline: none;
-	background-color: #eceeef;
+	background-color: #0c0c0c;
 	font-size: 16px;
 	font-weight: 500;
-	color: #9ca3a9;
+	color: #fff;
 	padding-left: 30px;
+	border-style: solid;
+	border-color: #0c0c0c #0c0c0c #ffffff30;
 }
 
 .contact-one__form .input-group textarea {
-	height: 221px;
+	height: 74px;
 	padding-top: 20px;
 }
 
@@ -3033,8 +3043,8 @@ h6 {
 
 
 .contact-one__form .input-group ::placeholder {
-	color: #9ca3a9;
-	opacity: 1;
+	color: #ffffff;
+	opacity: 0.7;
 }
 
 .contact-one__form .input-group :-ms-input-placeholder {
@@ -3765,8 +3775,7 @@ h6 {
 }
 
 .cta-two {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 130px;
 }
 
 .cta-two__content-highlight {
@@ -5558,6 +5567,7 @@ h6 {
 	padding: 0;
 	text-align: center;
 	line-height: 64px;
+	border-radius: 16px;
 }
 
 
@@ -5929,7 +5939,7 @@ h6 {
 .destinations-one,
 .destinations-two {
 	padding-top: 120px;
-	padding-bottom: 90px;
+	padding-bottom: 30px;
 }
 
 .destinations-one__single,
@@ -6074,13 +6084,14 @@ h6 {
 
 .destinations-three {
 	padding-top: 120px;
-	padding-bottom: 90px;
+	/* padding-bottom: 90px; */
 }
 
 .destinations-three__single {
 	position: relative;
 	overflow: hidden;
 	margin-bottom: 30px;
+	border-radius: 15px;
 	background-color: white;
 }
 
