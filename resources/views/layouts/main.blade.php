@@ -39,7 +39,7 @@
 <body>
     {{-- PRELOADER --}}
     <div class="preloader">
-        <img src="{{ asset('assets/images/logo quimera creativa.png') }}" class="preloader__image"
+        <img src="{{ asset('assets/logos/logo-quimera.creativa.png') }}" class="preloader__image"
             alt="Preloader Quimera">
     </div>
 
@@ -49,17 +49,17 @@
         <div class="site-header__header-one site-header__home-two-wrap">
             <header class="main-nav__header-three">
                 <nav class="header-navigation stricky">
-                    <div class="container">
+                    <div class="row">
                         {{-- LOGO --}}
-                        <div class="main-nav__logo-box">
+                        <div class="main-nav__logo-box col-lg-6 col-md-12">
                             <a href="/" class="main-nav__logo">
-                                <img src="{{ asset('assets/images/logo quimera creativa.png') }}" class="main-logo"
-                                    width="123" alt="Logotipo Quimera" />
+                                <img src="{{ asset('assets/images/logos/logo-quimera.creativa.png') }}"
+                                    class="main-logo" width="123" alt="Logotipo Quimera" />
                             </a>
                             <a href="#" class="side-menu__toggler"><i class="fa fa-bars"></i></a>
                         </div>
                         {{-- MENU --}}
-                        <div class="main-nav__main-navigation">
+                        <div class="main-nav__main-navigation col-lg-6 col-md-12">
                             <ul class="main-nav__navigation-box">
                                 <li>
                                     <a href="/gallery">Gallery</a>
