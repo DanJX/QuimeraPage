@@ -13,7 +13,7 @@
                 <img src="{{ asset('assets/images/slider-home/quimera-home.jpeg') }}" alt="Quimera Page" class="img-fluid"
                     style="border-radius: 10px">
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 wow fadeInRight">
                 <div class="cta-two__content">
                     <div class="block-title text-left">
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>

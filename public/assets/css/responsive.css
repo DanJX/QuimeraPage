@@ -118,6 +118,9 @@
 }
 
 @media(max-width: 991px) {
+	.main-nav__navigation-box li a::after {
+		display: none;
+	}
 	.site-footer {
 		padding-top: 80px;
 		padding-bottom: 50px;

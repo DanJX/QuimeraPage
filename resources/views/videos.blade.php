@@ -136,7 +136,9 @@
         }
 
         .video-gallery .gallery-item .gallery-item-caption {
-            text-align: left;
+            display: grid;
+            align-items: center;
+            text-align: center;
         }
 
         .video-gallery .gallery-item h2::after {
@@ -153,7 +155,9 @@
         }
 
         .video-gallery .gallery-item:hover h2::after {
-            transform: translate3d(0, 0, 0);
+            /* transform: translate3d(0, 0, 0); */
+            left: 50%;
+            transform: translateX(-50%);
         }
 
         .video-gallery .gallery-item:hover p {

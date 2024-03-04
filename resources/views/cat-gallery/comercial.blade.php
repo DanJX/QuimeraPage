@@ -6,7 +6,7 @@
 @endsection
 
 @section('main-body')
-    <section class="destinations-one">
+    <section class="gallery-detail">
         <div id="gallery">
             <div class="gallery-wrapper">
 

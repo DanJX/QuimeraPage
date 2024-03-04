@@ -6,7 +6,7 @@
 @endsection
 
 @section('main-body')
-    <section class="destinations-one">
+    <section class="gallery-detail">
         <div id="gallery">
             <div class="gallery-wrapper">
 
@@ -191,7 +191,6 @@
                 </div>
 
             </div>
-
         </div>
     </section>
 @endsection
@@ -200,7 +199,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
     <style>
         /* *****  GALLERIES ***** */
-
         .gallery-wrapper {
             padding: 2rem 2rem;
             display: grid;
@@ -210,19 +208,6 @@
             grid-gap: 1rem;
             grid-auto-flow: dense;
         }
-
-        /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
-        /* .gallery-wrapper {
-                                  padding: 2rem 10rem;
-                                  display: grid;
-                                  justify-content: center;
-                                  grid-template-columns: repeat(5, 300px);
-                                  grid-auto-rows: 200px;
-                                  grid-gap: 1rem;
-                                  grid-auto-flow: dense;
-                                }
-                                 */
-
         .gallery-item {
             width: 100%;
             height: 100%;
@@ -342,13 +327,6 @@
             padding: 0;
         }
 
-        h1 {
-            text-align: center;
-            padding: 1rem;
-            background: -webkit-linear-gradient(130deg, #A155DA, #41B3A3);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
 
         @media only screen and (max-width: 800px) {
             .gallery-wrapper {

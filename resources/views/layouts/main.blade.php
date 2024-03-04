@@ -105,17 +105,15 @@
             </div>
             <div class="side-menu__block-inner ">
                 <div class="side-menu__top justify-content-end">
-                    <a href="#" class="side-menu__toggler side-menu__close-btn"><img
-                            src="assets/images/shapes/close-1-1.png" alt=""></a>
+                    <a href="#" class="side-menu__toggler side-menu__close-btn">
+                        <i class="fa-solid fa-xmark"></i>
+                    </a>
                 </div>
                 {{-- MENU MOBILE --}}
                 <nav class="mobile-nav__container">
                 </nav>
                 <div class="side-menu__sep"></div>
                 <div class="side-menu__content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque rerum quod eius animi
-                        veritati
-                    </p>
                     <p>
                         <a href="">example@example.com</a>
                         <br>
