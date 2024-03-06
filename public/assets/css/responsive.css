@@ -28,8 +28,8 @@
 	}
 	.main-nav__header-four .main-nav__logo-box,
 	.main-nav__header-three  .main-nav__logo-box {
-		padding-top: 25px;
-		padding-bottom: 25px;
+		padding-top: 3px;
+		padding-bottom: 3px;
 	}
 	.main-nav__header-three  .main-nav__logo-box .side-menu__toggler,
 	.site-header__home-two .main-nav__logo-box .side-menu__toggler {

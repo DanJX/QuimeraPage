@@ -45,8 +45,17 @@
             justify-content: center;
             padding-top: 40px;
             padding-bottom: 40px;
-            height: 750px;
-            position: relative
+            height: 100vh;
+            min-height: 600px;
+            position: relative;
+        }
+
+        .black-gradient {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            background: linear-gradient(to bottom, #00000071, #0000);
+
         }
 
         .title {
