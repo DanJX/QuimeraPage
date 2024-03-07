@@ -19,6 +19,7 @@
 	.main-nav__logo, .main-nav__logo-box .side-menu__toggler {
 		position: relative;
 		width: 100%;
+		margin-left: 40px;
 	}
 	
 	.main-nav__header-four  .main-nav__logo-box::before,
@@ -28,8 +29,8 @@
 	}
 	.main-nav__header-four .main-nav__logo-box,
 	.main-nav__header-three  .main-nav__logo-box {
-		padding-top: 3px;
-		padding-bottom: 3px;
+		padding-top: 30px;
+		padding-bottom: 30px;
 	}
 	.main-nav__header-three  .main-nav__logo-box .side-menu__toggler,
 	.site-header__home-two .main-nav__logo-box .side-menu__toggler {
@@ -118,6 +119,13 @@
 }
 
 @media(max-width: 991px) {
+	.mobile-nav__container li a{
+		width: fit-content;
+	}
+	.contact-one{
+		height: auto;
+		padding: 180px 0 150px;
+	}
 	.main-nav__navigation-box li a::after {
 		display: none;
 	}

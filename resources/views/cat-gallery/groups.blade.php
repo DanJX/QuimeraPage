@@ -6,194 +6,445 @@
 @endsection
 
 @section('main-body')
-    <section class="gallery-detail">
-        <div id="gallery">
-            <div class="gallery-wrapper">
+<section class="gallery-detail">
+    <div id="gallery">
+        <div class="gallery-wrapper">
 
-                <div class="gallery-container h-2">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/11/08/16/57/forest-5724397_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/11/08/16/57/forest-5724397_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container h-2">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/001-PEPSICO-Dia2.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/001-PEPSICO-Dia2.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/05-Paax.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/05-Paax.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/11/06/15/33/woman-5718089_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/11/06/15/33/woman-5718089_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/050-PEPSICO-Dia2.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/050-PEPSICO-Dia2.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container h-2 w-3">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/11/09/22/20/bridge-5727975_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/11/09/22/20/bridge-5727975_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container h-2 w-3">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/072-PEPSICO-Dia3.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/072-PEPSICO-Dia3.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/11/04/15/29/coffee-beans-5712780_960_720.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/11/04/15/29/coffee-beans-5712780_960_720.jpg">
-                            </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/10CTM.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/10CTM.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2019/12/26/10/44/horse-4720178_960_720.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2019/12/26/10/44/horse-4720178_960_720.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/111CT.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/111CT.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2017/05/25/21/26/bird-feeder-2344414_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2017/05/25/21/26/bird-feeder-2344414_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/119-Tork.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/119-Tork.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container w-2 h-3">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2014/03/03/16/15/mosque-279015_960_720.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2014/03/03/16/15/mosque-279015_960_720.jpg"> </a>
-                        </div>
+            <div class="gallery-container w-2 h-3">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/129-PEPSICO-Dia2.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/129-PEPSICO-Dia2.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/11/08/10/25/dog-5723334_960_720.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/11/08/10/25/dog-5723334_960_720.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/137-PEPSICO-Dia2.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/137-PEPSICO-Dia2.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/10/28/23/33/llamas-5694819_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/10/28/23/33/llamas-5694819_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/262-PEPSICO-Dia3.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/262-PEPSICO-Dia3.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container w-2 h-3">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2015/02/15/03/04/japanese-umbrellas-636870_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2015/02/15/03/04/japanese-umbrellas-636870_1280.jpg">
-                            </a>
-                        </div>
+            <div class="gallery-container w-2 h-3">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/28CTM.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/28CTM.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2018/10/04/11/31/river-3723439_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2018/10/04/11/31/river-3723439_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/3-Tork.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/3-Tork.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery" href="https://loremflickr.com/320/240?random=13"><img
-                                    src="https://loremflickr.com/320/240?random=13"></a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/426-PEPSICO-Dia3.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/426-PEPSICO-Dia3.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2019/12/17/17/09/woman-4702060_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2019/12/17/17/09/woman-4702060_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/7Tork.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/7Tork.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/11/09/22/27/garlic-5728008_960_720.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/11/09/22/27/garlic-5728008_960_720.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/AT&T-D2-131.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/AT&T-D2-131.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery" href="https://loremflickr.com/320/240?random=43"><img
-                                    src="https://loremflickr.com/320/240?random=43"></a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/Breathless-172.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-172.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container w-2">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/10/01/17/11/temple-5619197_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/10/01/17/11/temple-5619197_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container w-2">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/Breathless-250.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-250.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://cdn.pixabay.com/photo/2020/09/06/20/21/cat-5550033_1280.jpg"><img
-                                    src="https://cdn.pixabay.com/photo/2020/09/06/20/21/cat-5550033_1280.jpg"> </a>
-                        </div>
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/Breathless-264.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-264.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
                     </div>
                 </div>
+            </div>
 
+            <div class="gallery-container h-2">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/Breathless-75.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-75.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-11.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-11.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-139.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-139.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container h-2 w-3">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-53.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-53.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-56.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-56.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D2-192.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D2-192.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-400.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-400.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container w-2 h-3">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-610.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-610.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-617.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-617.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-623.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-623.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container w-2 h-3">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-755.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-755.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/DarksidePaquito.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/DarksidePaquito.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-154.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-154.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-160.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-160.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/PaaxTalks.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/PaaxTalks.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-69.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-69.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container w-2">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-88.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-88.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="gallery-container">
+                <div class="gallery-item">
+                    <div class="image">
+                        <a data-fancybox="gallery"
+                            href="{{ asset('assets/images/gallery/congresos/TalksOlivia.jpg') }}">
+                            <img src="{{ asset('assets/images/gallery/congresos/TalksOlivia.jpg') }}"
+                                alt="Image Gallery Groups & conferences">
+                        </a>
+                    </div>
+                </div>
             </div>
 
         </div>
-    </section>
+    </div>
+</section>
 @endsection
 
 @section('css')
@@ -213,15 +464,15 @@
 
         /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
         /* .gallery-wrapper {
-                                  padding: 2rem 10rem;
-                                  display: grid;
-                                  justify-content: center;
-                                  grid-template-columns: repeat(5, 300px);
-                                  grid-auto-rows: 200px;
-                                  grid-gap: 1rem;
-                                  grid-auto-flow: dense;
-                                }
-                                 */
+                                      padding: 2rem 10rem;
+                                      display: grid;
+                                      justify-content: center;
+                                      grid-template-columns: repeat(5, 300px);
+                                      grid-auto-rows: 200px;
+                                      grid-gap: 1rem;
+                                      grid-auto-flow: dense;
+                                    }
+                                     */
 
         .gallery-item {
             width: 100%;

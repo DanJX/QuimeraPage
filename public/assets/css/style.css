@@ -183,7 +183,7 @@ h6 {
 
 .preloader {
 	position: fixed;
-	background-color: #fff;
+	background-color: #000000;
 	background-position: center center;
 	background-repeat: no-repeat;
 	top: 0;
@@ -209,6 +209,7 @@ h6 {
 	animation-duration: 2s;
 	-webkit-animation-iteration-count: infinite;
 	animation-iteration-count: infinite;
+	width: 200px;
 }
 
 .scroll-to-top {
@@ -415,6 +416,17 @@ h6 {
 .main-nav__logo-box .side-menu__toggler {
 	font-size: 20px;
 	color: white;
+}
+
+.side-menu__logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.side-menu__logo a img {
+	width: 220px;
 }
 
 @media (min-width: 993px) {
@@ -820,8 +832,10 @@ h6 {
 .main-nav__header-four .main-nav__logo-box,
 .main-nav__header-three .main-nav__logo-box {
 	background-color: transparent;
-	/* max-width: 123px; */
 	padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .main-nav__header-four .main-nav__main-navigation,
@@ -1639,8 +1653,8 @@ h6 {
 	display: flex;
 	-webkit-box-align: center;
 	align-items: center;
-	margin-top: 80px;
-	margin-bottom: 40px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .side-menu__social a {
@@ -3219,6 +3233,9 @@ h6 {
 
 .banner-three__box-single>img {
 	width: 100%;
+	aspect-ratio: 2/2;
+	object-fit: contain;
+	padding: 10px;
 }
 
 .banner-three__leaf {

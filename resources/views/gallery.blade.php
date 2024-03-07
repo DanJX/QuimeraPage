@@ -2,7 +2,7 @@
 @section('meta')
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>Categories - Quimera</title>
+    <title>Gallery - Quimera</title>
 @endsection
 
 @section('main-body')

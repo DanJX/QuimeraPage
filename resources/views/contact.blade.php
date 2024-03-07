@@ -18,15 +18,15 @@
                                 dicta! Velit excepturi assumenda consequuntur. Voluptas molestiae cumque perferendis aut,
                                 enim minima libero quas repellendus eius.</p>
                             <div class="mt-5 d-flex flex-column">
-                                <h4><i class="fa-solid fa-location-dot"></i> Address</h4>
-                                <p>  Lorem ipsum dolor sit, amet consectetur</p>
-                                <h4 class="mt-5"><i class="fa-solid fa-phone-volume"></i> Phone</h4>
-                                <a href="">
-                                     Lorem ipsum dolor sit, amet consectetur
+                                <h4><i aria-hidden="true" class="fa-solid fa-location-dot"></i> Address</h4>
+                                <p> Lorem ipsum dolor sit, amet consectetur</p>
+                                <h4 class="mt-5"><i aria-hidden="true" class="fa-solid fa-phone-volume"></i> Phone</h4>
+                                <a aria-label="Call us" href="tel:+9982350990">
+                                    Lorem ipsum dolor sit, amet consectetur
                                 </a>
-                                <h4 class="mt-5"><i class="fa-solid fa-envelopes-bulk"></i> Email</h4>
-                                <a href="">
-                                     Lorem ipsum dolor sit, amet consectetur
+                                <h4 class="mt-5"><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> Email</h4>
+                                <a aria-label="Send email" href="mailto:quimeracreativamx@gmail.com">
+                                    Quimeracreativamx@gmail.com 
                                 </a>
                             </div>
                         </div>

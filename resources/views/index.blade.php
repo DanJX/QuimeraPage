@@ -1,8 +1,10 @@
 @extends('layouts.main')
 @section('meta')
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Inicio - Quimera</title>
+    <title>Home - Quimera</title>
+    <meta name="keywords"
+        content="Fotografía Profesional, Diseño Creativo, Edición de Imágenes, Producción Audiovisual, Contenido Empresarial, Fotografía Corporativa, Diseño de Marca, Edición de Video, Estudio Fotográfico, Servicios Visuales, Creatividad Visual, Fotografía de Eventos, Diseño Publicitario, Producción de Video Corporativo, Retoque Fotográfico, Material Promocional, Captura de Momentos, Marketing Visual, Imágenes de Calidad, Contenido Impactante">
+    <meta name="description"
+        content="Bienvenido a QuimeraCreativa, tu socio creativo en el mundo visual y audiovisual. Nos destacamos como una firma dedicada a la excelencia en fotografía, diseño y edición, ofreciendo soluciones visuales innovadoras y de alta calidad para satisfacer las necesidades únicas de cada cliente">
 @endsection
 
 @section('main-body')
@@ -10,14 +12,14 @@
         <div class="item slide block-call-to-action"
             style="background-image: url('{{ asset('assets/images/slider-home/quimera-home.jpeg') }}')">
             <div class="black-gradient"></div>
-            <h2 class="title">Slogan</h2>
-            <p class="below-title">Texto adicional</p>
+            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <p class="below-title">Quimera Creativa</p>
         </div>
         <div class="item slide block-call-to-action"
-            style="background-image: url({{ asset('assets/images/slider-home/quimera-home.jpeg') }})">
+            style="background-image: url({{ asset('assets/images/gallery/comercial/002_Xoximilcoiconicas.jpg') }})">
             <div class="black-gradient"></div>
-            <h2 class="title">Texto Extra 2</h2>
-            <p class="below-title">Texto adicional 2</p>
+            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <p class="below-title">Quimera Creativa</p>
         </div>
     </div>
 @endsection
@@ -54,7 +56,7 @@
             position: absolute;
             height: 100%;
             width: 100%;
-            background: linear-gradient(to bottom, #00000071, #0000);
+            background: linear-gradient(to bottom, #000000a1, #0000);
 
         }
 

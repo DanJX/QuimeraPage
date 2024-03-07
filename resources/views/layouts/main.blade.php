@@ -7,7 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     @yield('meta')
     {{-- FAVICON --}}
-   
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/images/favicons/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/images/favicons/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/images/favicons/favicon-16x16.png') }}">
+    <link rel="manifest" href="{{ asset('assets/images/favicons/site.webmanifest') }}">
     {{-- FOUNT --}}
     <link
         href="https://fonts.googleapis.com/css?family=Barlow+Condensed:200,300,400,400i,500,600,700,800,900%7CSatisfy&display=swap"
@@ -36,7 +39,7 @@
 <body>
     {{-- PRELOADER --}}
     <div class="preloader">
-        <img src="{{ asset('assets/logos/logo-quimera.creativa.png') }}" class="preloader__image"
+        <img src="{{ asset('assets/images/logos/QuimeraCreativa-Blanco.webp') }}" class="preloader__image"
             alt="Preloader Quimera">
     </div>
 
@@ -49,26 +52,27 @@
                     <div class="row">
                         {{-- LOGO --}}
                         <div class="main-nav__logo-box col-lg-6 col-md-12">
-                            <a href="/" class="main-nav__logo">
-                                <img src="{{ asset('assets/images/logos/logo-quimera.creativa.png') }}"
-                                    class="main-logo" width="123" alt="Logotipo Quimera" />
+                            <a aria-label="Go to the home page" href="/" class="main-nav__logo">
+                                <img src="{{ asset('assets/images/logos/QuimeraCreativa-Blanco.webp') }}"
+                                    class="main-logo" width="123" alt="Logotipo Quimera Creativa" />
                             </a>
-                            <a href="#" class="side-menu__toggler"><i class="fa fa-bars"></i></a>
+                            <a aria-label="Open menu" href="#" class="side-menu__toggler"><i
+                                    class="fa fa-bars"></i></a>
                         </div>
                         {{-- MENU --}}
                         <div class="main-nav__main-navigation col-lg-6 col-md-12">
                             <ul class="main-nav__navigation-box">
                                 <li>
-                                    <a href="/gallery">Gallery</a>
+                                    <a aria-label="Go gallery" href="/gallery">Gallery</a>
                                 </li>
                                 <li>
-                                    <a href="/videos">Videos</a>
+                                    <a aria-label="Go Videos" href="/videos">Videos</a>
                                 </li>
                                 <li>
-                                    <a href="/about">About us</a>
+                                    <a aria-label="Go about us" href="/about">About us</a>
                                 </li>
                                 <li>
-                                    <a href="/contact">Contact us</a>
+                                    <a aria-label="Go contact us" href="/contact">Contact us</a>
                                 </li>
                             </ul>
                         </div>
@@ -83,16 +87,21 @@
             <div class="container">
                 <p>@ All copyright 2024, Quimera</p>
                 <div class="site-footer__social">
-                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                    <a href="#"><i class="fa-brands fa-tiktok"></i></a>
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                    <a aria-label="Whatsapp" target="_blank"
+                        href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">
+                        <i aria-hidden="true" class="fa-brands fa-whatsapp"></i>
+                    </a>
+                    <a aria-label="Instagram" href="https://www.instagram.com/quimeracreativamx" target="_blank">
+                        <i aria-hidden="true" class="fa-brands fa-instagram"></i>
+                    </a>
                 </div>
             </div>
         </div>
 
         {{-- BTN UP --}}
-        <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>
+        <a aria-label="Go to top" href="#" data-target="html" class="scroll-to-target scroll-to-top">
+            <i aria-hidden="true" class="fa fa-angle-up"></i>
+        </a>
 
         {{-- SECTION MOBILE --}}
         <div class="side-menu__block">
@@ -102,29 +111,40 @@
             </div>
             <div class="side-menu__block-inner ">
                 <div class="side-menu__top justify-content-end">
-                    <a href="#" class="side-menu__toggler side-menu__close-btn">
-                        <i class="fa-solid fa-xmark"></i>
+                    <a aria-label="Close menu" href="#" class="side-menu__toggler side-menu__close-btn">
+                        <i aria-hidden="true" class="fa-solid fa-xmark"></i>
                     </a>
                 </div>
                 {{-- MENU MOBILE --}}
+                <div class="side-menu__logo">
+                    <a aria-label="Go to the home page" href="/">
+                        <img src="{{ asset('assets/images/logos/QuimeraCreativa-Blanco.webp') }}"
+                            alt="Image logotipo quimera creativa">
+                    </a>
+                </div>
                 <nav class="mobile-nav__container">
                 </nav>
                 <div class="side-menu__sep"></div>
                 <div class="side-menu__content">
                     <p>
-                        <a href="">example@example.com</a>
+                        <a aria-label="Send email"
+                            href="mailto:quimeracreativamx@gmail.com">Quimeracreativamx@gmail.com</a>
                         <br>
-                        <a href="">09247329134</a>
+                        <a aria-label="Call us" href="tel:+9982350990">9982 3509 90 </a>
                     </p>
                     {{-- SOCIAL MEDIA --}}
                     <div class="side-menu__social">
-                        <a href="#"><i class="fab fa-facebook-square"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                        <a aria-label="Whatsapp" target="_blank"
+                            href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">
+                            <i aria-hidden="true" class="fa-brands fa-whatsapp"></i>
+                        </a>
+                        <a aria-label="Instagram" target="_blank"
+                            href="https://www.instagram.com/quimeracreativamx/">
+                            <i aria-hidden="true" class="fab fa-instagram"></i>
+                        </a>
                     </div>
-                </div><!-- /.side-menu__content -->
-            </div><!-- /.side-menu__block-inner -->
+                </div>
+            </div>
         </div>
 
         {{-- SCRIPTS --}}

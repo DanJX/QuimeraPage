@@ -10,50 +10,170 @@
         <div class="row">
             <div class="video-gallery">
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/test.gif')}}"
-                        alt="TestVideoGift" />
+                    <img src="{{ asset('assets/images/banner-gifs/ARMY-GIFT.gif')}}"
+                        alt="Aarmy" />
                     <div class="gallery-item-caption">
                         <div>
-                            <h2>Titulos</h2>
-                            <p>Lorem ipsum dolor</p>
+                            <h2>AARMY EXPERIENCE</h2>
+                            <p>Aarmy</p>
                         </div>
-                        <a class="vimeo-popup" href="https://vimeo.com/329303545"></a>
-                    </div>
-                </div>
-
-                <div class="gallery-item ">
-                    <img src="{{ asset('assets/images/banner-gifs/test2.gif')}}"
-                        alt="TestVideoGift" />
-                    <div class="gallery-item-caption">
-                        <div>
-                            <h2>Titulos</h2>
-                            <p>Lorem ipsum dolor</p>
-                        </div>
-                        <a class="vimeo-popup" href="https://vimeo.com/246980224"></a>
+                        <a class="vimeo-popup" href="https://vimeo.com/913495670"></a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/test3.gif')}}"
-                        alt="TestVideoGift" />
+                    <img src="{{ asset('assets/images/banner-gifs/CALONCHO.gif')}}"
+                        alt="Caloncho" />
                     <div class="gallery-item-caption">
                         <div>
-                            <h2>Titulos</h2>
-                            <p>Lorem ipsum dolor</p>
+                            <h2>Caloncho</h2>
+                            <p>23.09.15</p>
                         </div>
-                        <a class="image-link" href="https://vimeo.com/246980224"></a>
+                        <a class="vimeo-popup" href="https://vimeo.com/913493984"></a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/test4.gif')}}"
+                    <img src="{{ asset('assets/images/banner-gifs/CDLP.gif')}}"
                         alt="TestVideoGift" />
                     <div class="gallery-item-caption">
                         <div>
-                            <h2>Titulos</h2>
-                            <p>Lorem ipsum dolor</p>
+                            <h2>CDLP</h2>
+                            <p>Horizontal ESP 6</p>
                         </div>
-                        <a class="vimeo-popup" href="https://vimeo.com/171540296"></a>
+                        <a class="image-link" href="https://vimeo.com/913495732"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/ELISA.gif')}}"
+                        alt="Elisa Carrillo" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Elisa Carrillo</h2>
+                            <p>Entrevista</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913494273"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/GRETTA.gif')}}"
+                        alt="Greta HXA 2" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Greta HXA 2</h2>
+                            <p>HXA</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913493848"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/HAMMAN.gif')}}"
+                        alt="Hamman Reel" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Hamman Reel</h2>
+                            <p>Wellness Center</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913493475"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/HXA.gif')}}"
+                        alt="HXA" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>HXA</h2>
+                            <p>Horizontal 7</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913497193"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/NATALIA.gif')}}"
+                        alt="Natalia Lafourcade" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Natalia Lafourcade</h2>
+                            <p>Concierto Xcaret</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913498442"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/NIKE.gif')}}"
+                        alt="Nike" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Nike</h2>
+                            <p>Nike</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913493764"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/TNT.gif')}}"
+                        alt="TNT HXA" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>TNT</h2>
+                            <p>TNT HXA</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913498692"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/TSM.gif')}}"
+                        alt="TSM" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>TSM</h2>
+                            <p>TSM 2022</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913498825"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/VIRGILIO.gif')}}"
+                        alt="Virgilio Estero" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Virgilio Estero</h2>
+                            <p>V7</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913499421"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/XENSES.gif')}}"
+                        alt="Xenses Noxe" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Xenses Noxe</h2>
+                            <p>Full</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913499926"></a>
+                    </div>
+                </div>
+
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/YATES.gif')}}"
+                        alt="Yates Xcaret" />
+                    <div class="gallery-item-caption">
+                        <div>
+                            <h2>Yates Xcaret</h2>
+                            <p>H C1</p>
+                        </div>
+                        <a class="vimeo-popup" href="https://vimeo.com/913500255"></a>
                     </div>
                 </div>
             </div>
