@@ -41,7 +41,7 @@
 <body>
     {{-- PRELOADER --}}
     <div class="preloader">
-        <img src="{{ asset('assets/images/logos/QuimeraCreativa-Blanco.webp') }}" class="preloader__image"
+        <img src="{{ asset('assets/images/logos/preloader.gif') }}" class="preloader__image"
             alt="Preloader Quimera">
     </div>
 
@@ -87,7 +87,7 @@
         {{-- COPYRIGHT & SOCIAL MEDIA --}}
         <div class="site-footer__bottom site-footer__bottom-home-3">
             <div class="container">
-                <p>@ All copyright 2024, Quimera</p>
+                <p>@ All copyright 2024, Quimera Creativa</p>
                 <div class="site-footer__social">
                     <a aria-label="Whatsapp" target="_blank"
                         href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">

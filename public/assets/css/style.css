@@ -208,15 +208,7 @@ hr{
 }
 
 .preloader__image {
-	-webkit-animation-fill-mode: both;
-	animation-fill-mode: both;
-	-webkit-animation-name: flipInY;
-	animation-name: flipInY;
-	-webkit-animation-duration: 2s;
-	animation-duration: 2s;
-	-webkit-animation-iteration-count: infinite;
-	animation-iteration-count: infinite;
-	width: 200px;
+	width: 70%;
 }
 
 .scroll-to-top {

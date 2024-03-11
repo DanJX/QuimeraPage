@@ -10,8 +10,8 @@
     <section class="cta-two">
         <div class="row m-5">
             <div class="col-lg-6 wow fadeInLeft">
-                <img class="w-100" src="https://live.staticflickr.com/65535/53580017028_b10938f082.jpg" alt="Quimera Page" class="img-fluid"
-                    style="border-radius: 10px">
+                <img class="w-100" src="https://live.staticflickr.com/65535/53580017028_b10938f082.jpg" alt="Quimera Page"
+                    class="img-fluid" style="border-radius: 10px">
             </div>
             <div class="col-lg-6 wow fadeInRight">
                 <div class="cta-two__content">
@@ -42,17 +42,44 @@
         <div class="row">
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/ANAHUAC.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XAILING.png') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/APPLEleisure.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XCARET.png') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/BREATHLESS.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XENOTES.png') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/XENSES.png') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/XOXIMILCO.png') }}" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/XPLOR.png') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/HXA.png') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/HXM.png') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
@@ -63,7 +90,7 @@
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
                     <img src="{{ asset('assets/images/logos-empresas/DOLPHIN.png') }}" alt="">
-                </div>  
+                </div>
             </div>
         </div>
         <div class="row">
@@ -89,14 +116,14 @@
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/HXA.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/YACHTS.png') }}" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/HXM.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/BREATHLESS.png') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
@@ -150,39 +177,12 @@
         <div class="row">
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XAILING.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/ANAHUAC.png') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XCARET.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XENOTES.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XENSES.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XOXIMILCO.png') }}" alt="">
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XPLOR.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/YACHTS.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/APPLEleisure.png') }}" alt="">
                 </div>
             </div>
         </div>

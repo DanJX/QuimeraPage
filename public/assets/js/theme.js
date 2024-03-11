@@ -458,7 +458,7 @@
             });
         }
         if ($('.preloader').length) {
-            $('.preloader').fadeOut();
+            $('.preloader').delay(3000).fadeOut();
         }
 
         if ($('.countdown-one__list').length) {

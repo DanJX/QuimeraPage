@@ -20,7 +20,7 @@
                             <div class="mt-5 d-flex flex-column">
                                 <h4 class="mt-5"><i aria-hidden="true" class="fa-solid fa-phone-volume"></i> Phone</h4>
                                 <a aria-label="Call us" href="tel:+9982350990">
-                                    Lorem ipsum dolor sit, amet consectetur
+                                    9982 3509 90
                                 </a>
                                 <h4 class="mt-5"><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> Email</h4>
                                 <a aria-label="Send email" href="mailto:quimeracreativamx@gmail.com">
