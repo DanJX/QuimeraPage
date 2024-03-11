@@ -6,445 +6,445 @@
 @endsection
 
 @section('main-body')
-<section class="gallery-detail">
-    <div id="gallery">
-        <div class="gallery-wrapper">
-
-            <div class="gallery-container h-2">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/001-PEPSICO-Dia2.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/001-PEPSICO-Dia2.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+    <section class="gallery-detail">
+        <div id="gallery">
+            <div class="gallery-wrapper">
+                {{-- 1 vertical --}}
+                <div class="gallery-container ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579965603_0f8829fbfc.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579965603_0f8829fbfc.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/05-Paax.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/05-Paax.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 2 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580073259_683c75f6ed.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580073259_683c75f6ed.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/050-PEPSICO-Dia2.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/050-PEPSICO-Dia2.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 3 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53578887957_07be355470.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578887957_07be355470.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container h-2 w-3">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/072-PEPSICO-Dia3.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/072-PEPSICO-Dia3.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 4 horizontal --}}
+                <div class="gallery-container ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579965468_4618272af5.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579965468_4618272af5.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/10CTM.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/10CTM.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 5 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53578887882_9029a2277f_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578887882_9029a2277f_w.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/111CT.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/111CT.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 6 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580197555_8db4a16776.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580197555_8db4a16776.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/119-Tork.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/119-Tork.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 7 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579752446_057fe71d6f.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579752446_057fe71d6f.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container w-2 h-3">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/129-PEPSICO-Dia2.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/129-PEPSICO-Dia2.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 8 horizontal --}}
+                <div class="gallery-container  ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53578887222_2ea8cb617b.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578887222_2ea8cb617b.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/137-PEPSICO-Dia2.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/137-PEPSICO-Dia2.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 9 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579751906_a9eb43f5b2.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579751906_a9eb43f5b2.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/262-PEPSICO-Dia3.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/262-PEPSICO-Dia3.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 10 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580197410_a556a35445.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580197410_a556a35445.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container w-2 h-3">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/28CTM.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/28CTM.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 11 horizontal --}}
+                <div class="gallery-container  ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579965328_12226d7c0e.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579965328_12226d7c0e.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/3-Tork.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/3-Tork.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 12 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579964433_1a3d9face4.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579964433_1a3d9face4.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/426-PEPSICO-Dia3.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/426-PEPSICO-Dia3.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 13 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579965568_e2920e3306.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579965568_e2920e3306.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/7Tork.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/7Tork.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 14 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580072424_f92c364b8d.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580072424_f92c364b8d.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/AT&T-D2-131.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/AT&T-D2-131.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 15 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53578886992_93a041ff9a.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578886992_93a041ff9a.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/Breathless-172.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-172.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 16 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580072304_0693050cf3.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580072304_0693050cf3.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container w-2">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/Breathless-250.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-250.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 17 horizontal --}}
+                <div class="gallery-container ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580072299_b267bbe257.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580072299_b267bbe257.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/Breathless-264.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-264.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 18 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580196345_22f36f2111.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580196345_22f36f2111.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container h-2">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/Breathless-75.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/Breathless-75.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 19 vertical --}}
+                <div class="gallery-container ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579751706_6777f3b56a_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579751706_6777f3b56a_z.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-11.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-11.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 20 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579964543_66fa2fc8a5_c.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579964543_66fa2fc8a5_c.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-139.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-139.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 21 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579751661_d7f0ec1d15_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579751661_d7f0ec1d15_z.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container h-2 w-3">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-53.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-53.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 22 horizontal --}}
+                <div class="gallery-container ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579751611_33645e8c34_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579751611_33645e8c34_z.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D1-56.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D1-56.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 23 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53578886827_15f455f869.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578886827_15f455f869.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D2-192.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D2-192.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 24 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580196130_a19bd11c81.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580196130_a19bd11c81.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-400.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-400.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 25 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580072014_67b0ef7336.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580072014_67b0ef7336.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container w-2 h-3">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-610.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-610.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 26 horizontal --}}
+                <div class="gallery-container  ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579964248_4dbdbd6f40.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579964248_4dbdbd6f40.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-617.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-617.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 27 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579751286_f0f3caa67d.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579751286_f0f3caa67d.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-623.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-623.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 28 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579963988_cfdd5413d5.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579963988_cfdd5413d5.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container w-2 h-3">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/CMCWO-D3-755.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/CMCWO-D3-755.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 29 horizontal --}}
+                <div class="gallery-container  ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580071744_7782e8b328_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580071744_7782e8b328_z.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/DarksidePaquito.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/DarksidePaquito.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 30 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580195620_fa2139f102_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580195620_fa2139f102_z.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-154.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-154.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 31 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53578886247_ba885af420.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578886247_ba885af420.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-160.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/ECHOGLOBAL-160.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 32 horizontal --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579750981_7daf697060.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579750981_7daf697060.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/PaaxTalks.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/PaaxTalks.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 33 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579963763_652d068475.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579963763_652d068475.jpg"
+                                    alt="Image Gallery Gastronomy">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-69.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-69.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 34 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53578886142_fb6cf71278.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578886142_fb6cf71278.jpg"
+                                    alt="Image Gallery Gastronomy">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container w-2">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-88.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/PEPSICOSUMMIT-88.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 35 horizontal --}}
+                <div class="gallery-container ">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580195330_dabb4df713_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580195330_dabb4df713_w.jpg"
+                                    alt="Image Gallery Gastronomy">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div class="gallery-container">
-                <div class="gallery-item">
-                    <div class="image">
-                        <a data-fancybox="gallery"
-                            href="{{ asset('assets/images/gallery/congresos/TalksOlivia.jpg') }}">
-                            <img src="{{ asset('assets/images/gallery/congresos/TalksOlivia.jpg') }}"
-                                alt="Image Gallery Groups & conferences">
-                        </a>
+                {{-- 36 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579751716_2b4dba6d60.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579751716_2b4dba6d60.jpg"
+                                    alt="Image Gallery Gastronomy">
+                            </a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 @endsection
 
 @section('css')
@@ -452,7 +452,7 @@
     <style>
         /* *****  GALLERIES ***** */
 
-        .gallery-wrapper {
+        /* .gallery-wrapper {
             padding: 2rem 2rem;
             display: grid;
             justify-content: center;
@@ -460,19 +460,19 @@
             grid-auto-rows: auto;
             grid-gap: 1rem;
             grid-auto-flow: dense;
-        }
+        } */
 
         /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
-        /* .gallery-wrapper {
-                                      padding: 2rem 10rem;
-                                      display: grid;
-                                      justify-content: center;
-                                      grid-template-columns: repeat(5, 300px);
-                                      grid-auto-rows: 200px;
-                                      grid-gap: 1rem;
-                                      grid-auto-flow: dense;
-                                    }
-                                     */
+        .gallery-wrapper {
+            padding: 2rem 10rem;
+            display: grid;
+            justify-content: center;
+            grid-template-columns: repeat(5, 300px);
+            grid-auto-rows: 200px;
+            grid-gap: 1rem;
+            grid-auto-flow: dense;
+        }
+
 
         .gallery-item {
             width: 100%;
@@ -505,7 +505,7 @@
             grid-column: span 1;
         }
 
-        .w-2 {
+        . {
             grid-column: span 2;
         }
 
@@ -525,11 +525,11 @@
             grid-row: span 1;
         }
 
-        .h-2 {
+        . {
             grid-row: span 2;
         }
 
-        .h-3 {
+        . {
             grid-row: span 3;
         }
 
@@ -621,7 +621,7 @@
 
             /*  reseting the css for the class within the divs to show a different way to achieve grid control using the nth childs*/
             .w-1,
-            .w-2,
+            .,
             .w-3,
             .w-4,
             .w-5 {
@@ -629,8 +629,8 @@
             }
 
             .h-1,
-            .h-2,
-            .h-3,
+            .,
+            .,
             .h-4,
             .h-5 {
                 grid-row: span 1;

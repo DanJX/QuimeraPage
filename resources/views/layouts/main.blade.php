@@ -11,9 +11,11 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/images/favicons/favicon-32x32.png') }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/images/favicons/favicon-16x16.png') }}">
     <link rel="manifest" href="{{ asset('assets/images/favicons/site.webmanifest') }}">
-    {{-- FOUNT --}}
+    {{-- FONT --}}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css?family=Barlow+Condensed:200,300,400,400i,500,600,700,800,900%7CSatisfy&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
     {{-- FONT AWESOME --}}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -128,9 +130,13 @@
                 <div class="side-menu__content">
                     <p>
                         <a aria-label="Send email"
-                            href="mailto:quimeracreativamx@gmail.com">Quimeracreativamx@gmail.com</a>
+                            href="mailto:quimeracreativamx@gmail.com">
+                            <i aria-hidden="true" class="fa-solid fa-at"></i>
+                            Quimeracreativamx@gmail.com</a>
                         <br>
-                        <a aria-label="Call us" href="tel:+9982350990">9982 3509 90 </a>
+                        <a aria-label="Call us" href="tel:+9982350990">
+                            <i aria-hidden="true" class="fa-solid fa-phone"></i>
+                            9982 3509 90 </a>
                     </p>
                     {{-- SOCIAL MEDIA --}}
                     <div class="side-menu__social">

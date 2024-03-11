@@ -9,502 +9,514 @@
     <section class="gallery-detail">
         <div id="gallery">
             <div class="gallery-wrapper">
-
+                {{-- 1 vertical --}}
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/001-xcaretamex23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/001-xcaretamex23.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580055389_3a9a33c50e_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580055389_3a9a33c50e_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/001_Xunset.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/001_Xunset.jpg') }}"
-                                    alt="Image Gallery Comercial">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
+                {{-- 2 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/002_Xoximilcoiconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/002_Xoximilcoiconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579736051_749736fe47.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579736051_749736fe47.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 3 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579953518_d761868c7c_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579953518_d761868c7c_w.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                {{-- 4 horizontal --}}
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/003-xcaretamex23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/003-xcaretamex23.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53578877032_834cbbf337.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578877032_834cbbf337.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 5 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/003_BRAVEST.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/003_BRAVEST.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580182325_fe5b22cc08.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580182325_fe5b22cc08.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/003_Yates.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/003_Yates.jpg') }}"
-                                    alt="Image Gallery Comercial">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
+                {{-- 6 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/004-YatesEditadas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/004-YatesEditadas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579949443_e6bca7e059_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579949443_e6bca7e059_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 7 vertical --}}
+                <div class="gallery-container">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580055544_ef0af01b50_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580055544_ef0af01b50_w.jpg"
+                                    alt="Image Gallery Architecture">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                {{-- 8 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/004_Xoximilcoiconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/004_Xoximilcoiconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53578875907_e4f549c0f8.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578875907_e4f549c0f8.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 9 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/006_DOLPHIN.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/006_DOLPHIN.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579954233_97aaf223f7_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579954233_97aaf223f7_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 10 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/007-HXM-InfinityPool.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/007-HXM-InfinityPool.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579954388_6a5f4d7515_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579954388_6a5f4d7515_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 11 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/007-HXM-Pulpo.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/007-HXM-Pulpo.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579952948_986d848e55.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579952948_986d848e55.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 12 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/008-HXM-InfinityPool.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/008-HXM-InfinityPool.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580185005_63c5e0424f.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580185005_63c5e0424f.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 13 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/008_Xoximilcoiconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/008_Xoximilcoiconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580061544_2703521728_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580061544_2703521728_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 14 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/009_Xplorfuego.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/009_Xplorfuego.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53578875137_54ea33ec01_c.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578875137_54ea33ec01_c.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 15 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/014-HXM-MulukSpa.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/014-HXM-MulukSpa.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580185915_3ebe356176.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580185915_3ebe356176.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 16 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/015_Xplorfuego.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/015_Xplorfuego.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579951733_7417f86c6a.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579951733_7417f86c6a.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 17 horizontal --}}
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/016_DOLPHIN.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/016_DOLPHIN.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580183695_444024f996.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580183695_444024f996.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 18 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/017_DOLPHIN.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/017_DOLPHIN.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579734531_a2282fe752_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579734531_a2282fe752_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 19 vertical --}}
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/020_hxm-iconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/020_hxm-iconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580180840_bc73ca1dd6.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580180840_bc73ca1dd6.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 20 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/022_BRAVEST.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/022_BRAVEST.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579735121_9382e46d5b.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579735121_9382e46d5b.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 21 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/028-HXM-Aviario.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/028-HXM-Aviario.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580185695_94ffb3c65a.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580185695_94ffb3c65a.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 22 horizontal --}}
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/030-YatesEditadas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/030-YatesEditadas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580180335_ef3acecd35_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580180335_ef3acecd35_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 23 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/033_Xplorfuego.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/033_Xplorfuego.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580060569_0c0a836dd3.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580060569_0c0a836dd3.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 24 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/038-YatesEditadas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/038-YatesEditadas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579952023_87fa6a302d.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579952023_87fa6a302d.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 25 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/050_Xoximilcoiconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/050_Xoximilcoiconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580185535_cb0af6043f_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580185535_cb0af6043f_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 26 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/052_hxm-iconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/052_hxm-iconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579947323_4841cd572f.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579947323_4841cd572f.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 27 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/052_Yates.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/052_Yates.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580177940_3235333548_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580177940_3235333548_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 28 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/054_hxm-iconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/054_hxm-iconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53578869207_fb8fa4f133_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578869207_fb8fa4f133_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 29 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/061_Xelhaiconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/061_Xelhaiconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580178245_5c76d9ebb1_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580178245_5c76d9ebb1_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 30 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/062_Xelhaiconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/062_Xelhaiconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580054509_33cfcdd9ed.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580054509_33cfcdd9ed.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 31 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/074_hxm-iconicas.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/074_hxm-iconicas.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580056799_62a1d1c084.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580056799_62a1d1c084.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 32 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/077-XENSESNOCHE.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/077-XENSESNOCHE.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579949033_f49f6cefaf.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579949033_f49f6cefaf.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 33 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/110-XENSESNOCHE.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/110-XENSESNOCHE.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580057824_78661dd2c9_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580057824_78661dd2c9_w.jpg"
+                                    alt="Image Gallery Gastronomy">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 34 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/132-XENSESNOCHE.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/132-XENSESNOCHE.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53580058219_a9bea535c0.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580058219_a9bea535c0.jpg"
+                                    alt="Image Gallery Gastronomy">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 35 horizontal --}}
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/Avioariocasting-16.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/Avioariocasting-16.jpg') }}"
-                                    alt="Image Gallery Comercial">
+                                href="https://live.staticflickr.com/65535/53579733166_fffa2c270f.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579733166_fffa2c270f.jpg"
+                                    alt="Image Gallery Gastronomy">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 36 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/comercial/balsas-3.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/balsas-3.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53579738351_e14ef8d72d.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579738351_e14ef8d72d.jpg"
+                                    alt="Image Gallery Gastronomy">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                {{-- 37 --}}
+                <div class="gallery-container h-2">
+                    <div class="gallery-item">
+                        <div class="image">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580059144_267bb3c2a7.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580059144_267bb3c2a7.jpg"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-
-                <div class="gallery-container h-2">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/bravest-19.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/bravest-19.jpg') }}" alt="Image Gallery Comercial">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
+                {{-- 38 --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/m4-10.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/m4-10.jpg') }}" alt="Image Gallery Comercial">
+                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53580059374_a70b670d20.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580059374_a70b670d20.jpg"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 39 --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/m4-2.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/m4-2.jpg') }}" alt="Image Gallery Comercial">
+                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53578873227_e74d98e447.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578873227_e74d98e447.jpg"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 40 --}}
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/tirolesa-1.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/tirolesa-1.jpg') }}" alt="Image Gallery Comercial">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53579950203_3ded09b7bd.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579950203_3ded09b7bd.jpg"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 41 --}}
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/XP-1.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/XP-1.jpg') }}" alt="Image Gallery Comercial">
+                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53579733266_13772d6507.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579733266_13772d6507.jpg"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 42 --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/xplor-13.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/xplor-13.jpg') }}" alt="Image Gallery Comercial">
+                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53579947043_fa9097d29d.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579947043_fa9097d29d.jpg"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 43 --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="{{ asset('assets/images/gallery/comercial/xunset-2.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/comercial/xunset-2.jpg') }}" alt="Image Gallery Comercial">
+                            <a data-fancybox="gallery"
+                                href="https://live.staticflickr.com/65535/53580178040_4edc7eb633_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580178040_4edc7eb633_z.jpg"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -532,15 +544,15 @@
 
         /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
         /* .gallery-wrapper {
-                                      padding: 2rem 10rem;
-                                      display: grid;
-                                      justify-content: center;
-                                      grid-template-columns: repeat(5, 300px);
-                                      grid-auto-rows: 200px;
-                                      grid-gap: 1rem;
-                                      grid-auto-flow: dense;
-                                    }
-                                     */
+                                                  padding: 2rem 10rem;
+                                                  display: grid;
+                                                  justify-content: center;
+                                                  grid-template-columns: repeat(5, 300px);
+                                                  grid-auto-rows: 200px;
+                                                  grid-gap: 1rem;
+                                                  grid-auto-flow: dense;
+                                                }
+                                                 */
 
         .gallery-item {
             width: 100%;

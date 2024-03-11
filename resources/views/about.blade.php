@@ -10,7 +10,7 @@
     <section class="cta-two">
         <div class="row m-5">
             <div class="col-lg-6 wow fadeInLeft">
-                <img src="{{ asset('assets/images/slider-home/quimera-home.jpeg') }}" alt="Quimera Page" class="img-fluid"
+                <img class="w-100" src="https://live.staticflickr.com/65535/53580017028_b10938f082.jpg" alt="Quimera Page" class="img-fluid"
                     style="border-radius: 10px">
             </div>
             <div class="col-lg-6 wow fadeInRight">
@@ -36,7 +36,8 @@
     {{-- CLIENTES --}}
     <div class="banner-three__box">
         <div class="block-title">
-            <h3 class="text-center mb-3">Clientes</h3>
+            <h3 class="text-center mb-3">Customers</h3>
+            <hr>
         </div>
         <div class="row">
             <div class="banner-three__col">
@@ -62,7 +63,7 @@
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
                     <img src="{{ asset('assets/images/logos-empresas/DOLPHIN.png') }}" alt="">
-                </div>
+                </div>  
             </div>
         </div>
         <div class="row">

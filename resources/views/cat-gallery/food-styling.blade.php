@@ -9,433 +9,433 @@
     <section class="gallery-detail">
         <div id="gallery">
             <div class="gallery-wrapper">
-
+                {{-- 1 vertical --}}
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/001_TUCHDELUNA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/001_TUCHDELUNA.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579932698_5da2400b25_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579932698_5da2400b25_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 2 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/002-cantina.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/002-cantina.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580162090_8304c81761_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580162090_8304c81761_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 3 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/002_chibali.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/002_chibali.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579716826_82a210ec0c_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579716826_82a210ec0c_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 4 horizontal --}}
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/003-chinopoblano.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/003-chinopoblano.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580164250_0307e3d0d3.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580164250_0307e3d0d3.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 5 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/004-lcdlplumbre23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/004-lcdlplumbre23.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580161770_9d3fac1085_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580161770_9d3fac1085_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 6 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/005-tahxido.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/005-tahxido.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580161470_90517f1480_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580161470_90517f1480_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 7 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/005-xaak.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/005-xaak.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579716316_40c76a9353_n.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579716316_40c76a9353_n.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 8 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/005-xingao.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/005-xingao.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580036379_1464a6bb19_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580036379_1464a6bb19_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 9 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/006-lcdlplumbre23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/006-lcdlplumbre23.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580160165_3414a9926c_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580160165_3414a9926c_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 10 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/007_CENA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/007_CENA.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53578851097_2d45a4f6fa_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578851097_2d45a4f6fa_w.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 11 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/012-lcdlptuch23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/012-lcdlptuch23.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579933323_ac9a9aede5.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579933323_ac9a9aede5.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 12 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/013-lcdlpcentli23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/013-lcdlpcentli23.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53578854977_a15946bd6a.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578854977_a15946bd6a.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 13 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/013-lcdlptuch23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/013-lcdlptuch23.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580163040_6ea6b95e23.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580163040_6ea6b95e23.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 14 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/013-tahxido.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/013-tahxido.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579932808_87fb403244.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579932808_87fb403244.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 15 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/014-kibikibi.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/014-kibikibi.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579928393_37b127a577.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579928393_37b127a577.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 16 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/014-lcdlplumbre23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/014-lcdlplumbre23.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579933053_7e8097e5b6.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579933053_7e8097e5b6.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 17 horizontal --}}
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/015-apapachoa.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/015-apapachoa.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579932208_c4e7c5f7cb.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579932208_c4e7c5f7cb.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 18 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/017-apapachoa.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/017-apapachoa.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53578854067_3cb7373c76.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578854067_3cb7373c76.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 19 vertical --}}
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/018_HACENA2023.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/018_HACENA2023.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579715916_e925c539de.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579715916_e925c539de.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 20 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/021-lcdlptuch23.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/021-lcdlptuch23.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579715391_577f96747d_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579715391_577f96747d_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 21 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/023_CENA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/023_CENA.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579929418_3102401493.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579929418_3102401493.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 22 horizontal --}}
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/029_HACENA2023.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/029_HACENA2023.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579929873_8fcee8a7f6.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579929873_8fcee8a7f6.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 23 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/035_HACENA2023.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/035_HACENA2023.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579716896_5295316d4d.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579716896_5295316d4d.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 24 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/037_LCDLPESTERO.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/037_LCDLPESTERO.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579930718_6d874b4b93_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579930718_6d874b4b93_z.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 25 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/048_HACENA2023.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/048_HACENA2023.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580161710_c8dc2b43e2.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580161710_c8dc2b43e2.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 26 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/057_LCDLPESTERO.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/057_LCDLPESTERO.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580161340_63e0b67d7a.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580161340_63e0b67d7a.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 27 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/095_LCDLPESTERO.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/095_LCDLPESTERO.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580162065_8fee4b14b7.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580162065_8fee4b14b7.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 28 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/102_TUCHDELUNA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/102_TUCHDELUNA.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53579717591_8b4d90778e.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579717591_8b4d90778e.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 29 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/127_TUCHDELUNA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/127_TUCHDELUNA.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580036359_cc9a99212d.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580036359_cc9a99212d.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 30 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/180_TUCHDELUNA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/180_TUCHDELUNA.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580159575_8cb78a3de5.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580159575_8cb78a3de5.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 31 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/degustare-13.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/degustare-13.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580035614_cbd1a9377a.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580035614_cbd1a9377a.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 32 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/degustare-31.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/degustare-31.jpg') }}"
-                                    alt="Image Gallery Gastronomy">
+                                href="https://live.staticflickr.com/65535/53580159665_cbde82f226.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580159665_cbde82f226.jpg"
+                                    alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 33 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/degustare-40.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/degustare-40.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53578850602_db534205b2.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578850602_db534205b2.jpg"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 34 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/Menuha23-25.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/Menuha23-25.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580159300_df92c55c52.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580159300_df92c55c52.jpg"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 35 horizontal --}}
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/Menuha23-35.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/Menuha23-35.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580159995_08d70626a8.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580159995_08d70626a8.jpg"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 36 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/gastronomia/Menuha23-38.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/gastronomia/Menuha23-38.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53579930288_79572306c0.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579930288_79572306c0.jpg"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -464,15 +464,15 @@
 
         /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
         /* .gallery-wrapper {
-                                          padding: 2rem 10rem;
-                                          display: grid;
-                                          justify-content: center;
-                                          grid-template-columns: repeat(5, 300px);
-                                          grid-auto-rows: 200px;
-                                          grid-gap: 1rem;
-                                          grid-auto-flow: dense;
-                                        }
-                                         */
+                                                      padding: 2rem 10rem;
+                                                      display: grid;
+                                                      justify-content: center;
+                                                      grid-template-columns: repeat(5, 300px);
+                                                      grid-auto-rows: 200px;
+                                                      grid-gap: 1rem;
+                                                      grid-auto-flow: dense;
+                                                    }
+                                                     */
 
         .gallery-item {
             width: 100%;

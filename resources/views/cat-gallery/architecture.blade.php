@@ -9,385 +9,385 @@
     <section class="gallery-detail">
         <div id="gallery">
             <div class="gallery-wrapper">
-
+                {{-- 1 vertical --}}
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/001-infinity.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/001-infinity.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580014319_f8eb6c636b_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580014319_f8eb6c636b_w.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 2 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/001-msof1408.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/001-msof1408.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53579692036_836bdb438c_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579692036_836bdb438c_w.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 3 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/001-playa.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/001-playa.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580137795_31ab992583_n.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580137795_31ab992583_n.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 4 horizontal --}}
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/002-InfinityPool.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/002-InfinityPool.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580010159_3143ceab3a_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580010159_3143ceab3a_z.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 5 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/002-playa.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/002-playa.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580013559_b178ff0b1a_n.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580013559_b178ff0b1a_n.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 6 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/002_LCDLP.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/002_LCDLP.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53578827182_fd88d510e2_n.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578827182_fd88d510e2_n.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 7 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/003-InfinityPool.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/003-InfinityPool.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580011244_da7a56d9f2_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580011244_da7a56d9f2_w.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 8 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/004-mulukspa.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/004-mulukspa.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580014684_435c5a3322.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580014684_435c5a3322.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 9 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/008-Capilla.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/008-Capilla.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53578825837_2a168ed6ea_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578825837_2a168ed6ea_w.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 10 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/008-PiscinaCentral.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/008-PiscinaCentral.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580014639_50c341e0c1.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580014639_50c341e0c1.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 11 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/009-sov2201.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/009-sov2201.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580014084_29cacec471.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580014084_29cacec471.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 12 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/012-PiscinaCentral.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/012-PiscinaCentral.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580013109_341e00d4c6.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580013109_341e00d4c6.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 13 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/013-AlbercaPulpo.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/013-AlbercaPulpo.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53579906003_f7e4fd3147.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579906003_f7e4fd3147.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 14 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/013-infinity.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/013-infinity.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53578827192_2c5ed7d3c3.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578827192_2c5ed7d3c3.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 15 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/013_LCDLP.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/013_LCDLP.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53579905088_3fd6438ccb_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579905088_3fd6438ccb_w.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 16 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/014-infinity.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/014-infinity.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580134530_486629ec00_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580134530_486629ec00_w.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 17 horizontal --}}
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/019-msof1408.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/019-msof1408.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580010969_b2e182ecbd_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580010969_b2e182ecbd_z.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 18 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/023_LCDLP.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/023_LCDLP.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580131210_735eb3bf97_w.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580131210_735eb3bf97_w.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 19 vertical --}}
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/026_CasaPlayaParaiso.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/026_CasaPlayaParaiso.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53579902058_7d9a5a5ee6_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579902058_7d9a5a5ee6_z.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 20 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/030_CasaPlayaParaiso.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/030_CasaPlayaParaiso.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580134330_f01489f8e3_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580134330_f01489f8e3_z.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 21 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/032-InfinityPool.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/032-InfinityPool.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53578825877_94dc515b65_c.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578825877_94dc515b65_c.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 22 horizontal --}}
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/034-InfinityPool.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/034-InfinityPool.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580134290_a8296d65f1.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580134290_a8296d65f1.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 23 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/130_LCDLPESTERO.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/130_LCDLPESTERO.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580134750_45a6c61d2b.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580134750_45a6c61d2b.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 24 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/141_LCDLPESTERO.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/141_LCDLPESTERO.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580138150_70f7f87ebd.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580138150_70f7f87ebd.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 25 vertical --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/259_TUCHDELUNA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/259_TUCHDELUNA.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580133460_13f047b8c2.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580133460_13f047b8c2.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 26 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/265_TUCHDELUNA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/265_TUCHDELUNA.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53579904758_7f90433c65_b.jpg">
+                                <img src="https://live.staticflickr.com/65535/53579904758_7f90433c65_b.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 27 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/280_TUCHDELUNA.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/280_TUCHDELUNA.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580009154_b0fe6059ff_z.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580009154_b0fe6059ff_z.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 28 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/AirbnbRM-12.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/AirbnbRM-12.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580133145_55ea3d656a_c.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580133145_55ea3d656a_c.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 29 horizontal --}}
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/AirbnbRM-3.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/AirbnbRM-3.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53578823127_aefda472c8.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578823127_aefda472c8.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 30 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/nick-27.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/nick-27.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53578823292_130df68b9a.jpg">
+                                <img src="https://live.staticflickr.com/65535/53578823292_130df68b9a.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 31 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/nick-5.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/nick-5.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580132680_e2137febf2_c.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580132680_e2137febf2_c.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
                     </div>
                 </div>
-
+                {{-- 32 horizontal --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
                             <a data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/arquitectura/TAKH-2.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/arquitectura/TAKH-2.jpg') }}"
+                                href="https://live.staticflickr.com/65535/53580010684_fdc8f3d3f0_c.jpg">
+                                <img src="https://live.staticflickr.com/65535/53580010684_fdc8f3d3f0_c.jpg"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>

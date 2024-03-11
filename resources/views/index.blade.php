@@ -10,13 +10,31 @@
 @section('main-body')
     <div id="banner-slider-demo-17" class="owl-carousel owl-theme">
         <div class="item slide block-call-to-action"
-            style="background-image: url('{{ asset('assets/images/slider-home/quimera-home.jpeg') }}')">
+            style="background-image: url({{asset('assets/images/slider-home/home.jpeg')}})">
             <div class="black-gradient"></div>
             <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
         </div>
         <div class="item slide block-call-to-action"
-            style="background-image: url({{ asset('assets/images/gallery/comercial/002_Xoximilcoiconicas.jpg') }})">
+            style="background-image: url({{asset('assets/images/slider-home/home2.jpg')}})">
+            <div class="black-gradient"></div>
+            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <p class="below-title">Quimera Creativa</p>
+        </div>
+        <div class="item slide block-call-to-action"
+            style="background-image: url({{asset('assets/images/slider-home/home3.jpg')}})">
+            <div class="black-gradient"></div>
+            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <p class="below-title">Quimera Creativa</p>
+        </div>
+        <div class="item slide block-call-to-action"
+            style="background-image: url({{asset('assets/images/slider-home/home4.jpg')}})">
+            <div class="black-gradient"></div>
+            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <p class="below-title">Quimera Creativa</p>
+        </div>
+        <div class="item slide block-call-to-action"
+            style="background-image: url({{asset('assets/images/slider-home/home5.jpg')}})">
             <div class="black-gradient"></div>
             <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
@@ -67,7 +85,8 @@
             font-weight: 500;
             text-align: center;
             z-index: 2;
-            text-transform: uppercase
+            text-transform: uppercase;
+            width: 60%
         }
 
         .below-title,
