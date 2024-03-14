@@ -493,6 +493,9 @@
 }
 
 @media(max-width: 480px) {
+	.preloader__image{
+		width: 500px;
+	}
 	.contact-infoad{
 		font-size: 14px;
 	}

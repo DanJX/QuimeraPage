@@ -107,7 +107,7 @@
 
         @media only screen and (max-width:425px) {
             .title {
-                font-size: 1rem
+                font-size: 1.4rem
             }
 
             .below-title {
@@ -140,6 +140,10 @@
                 animateOut: 'fadeOut',
                 loop: true
             });
+        }
+
+        if ($('.preloader').length) {
+            $('.preloader').delay(3400).fadeOut();
         }
     </script>
 @endsection
