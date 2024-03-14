@@ -47,22 +47,22 @@
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XPLOR.webp') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/xplor.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XENOTES.webp') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/xenotes.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XENSES.webp') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/xenses.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XOXIMILCO.webp') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/xoximilco.webp') }}" alt="">
                 </div>
             </div>
         </div>
@@ -89,7 +89,7 @@
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/YACHTS.webp') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/yachts.webp') }}" alt="">
                 </div>
             </div>
         </div>
@@ -119,7 +119,6 @@
                     <img src="{{ asset('assets/images/logos-empresas/APPLEleisure.webp') }}" alt="">
                 </div>
             </div>
-          
         </div>
         <div class="row">
             <div class="banner-three__col">
