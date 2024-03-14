@@ -12,19 +12,19 @@
                 {{-- INFO --}}
                 <div class="col-lg-5">
                     <div class="contact-one__content">
-                        <div class="block-title text-center">
-                            <h2 class="mb-4">Contact Us</h2>
+                        <div class="block-title text-justify">
+                            <h2 class="mb-4 text-center">Contact Us</h2>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nam in illum, saepe ratione
                                 dicta! Velit excepturi assumenda consequuntur. Voluptas molestiae cumque perferendis aut,
                                 enim minima libero quas repellendus eius.</p>
-                            <div class="mt-5 d-flex flex-column">
-                                <h4 class="mt-5"><i aria-hidden="true" class="fa-solid fa-phone-volume"></i> Phone</h4>
-                                <a aria-label="Call us" href="tel:+9982350990">
-                                    9982 3509 90
+                            <div class="mt-5 d-flex flex-column contact-infoad">
+                                <a aria-label="Call us" href="tel:+529982350990">
+                                    <img class="icons" src="{{ asset('assets/images/icons/phone.webp') }}" alt="Icon Phone">
+                                    +52 9982 3509 90
                                 </a>
-                                <h4 class="mt-5"><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> Email</h4>
                                 <a aria-label="Send email" href="mailto:quimeracreativamx@gmail.com">
-                                    Quimeracreativamx@gmail.com 
+                                    <img class="icons" src="{{ asset('assets/images/icons/email.webp') }}" alt="Icon E-mail">
+                                    Quimeracreativamx@gmail.com
                                 </a>
                             </div>
                         </div>

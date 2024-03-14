@@ -10,13 +10,13 @@
         <div id="gallery">
             <div class="gallery-wrapper">
                 {{-- 1 vertical --}}
-                <div class="gallery-container ">
+                <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579965603_0f8829fbfc.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579965603_0f8829fbfc.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-4.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-4.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -25,10 +25,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580073259_683c75f6ed.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580073259_683c75f6ed.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-13.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-13.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -37,22 +37,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578887957_07be355470.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578887957_07be355470.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-27.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-27.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 4 horizontal --}}
-                <div class="gallery-container ">
+                <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579965468_4618272af5.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579965468_4618272af5.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-5.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-5.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -61,10 +61,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578887882_9029a2277f_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578887882_9029a2277f_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-14.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-14.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -73,10 +73,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580197555_8db4a16776.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580197555_8db4a16776.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-15.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-15.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -85,22 +85,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579752446_057fe71d6f.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579752446_057fe71d6f.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-16.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-16.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 8 horizontal --}}
-                <div class="gallery-container  ">
+                <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578887222_2ea8cb617b.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578887222_2ea8cb617b.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-2.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-2.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -109,10 +109,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579751906_a9eb43f5b2.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579751906_a9eb43f5b2.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-1.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-1.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -121,22 +121,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580197410_a556a35445.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580197410_a556a35445.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-3.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-3.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 11 horizontal --}}
-                <div class="gallery-container  ">
+                <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579965328_12226d7c0e.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579965328_12226d7c0e.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-18.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-18.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -145,10 +145,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579964433_1a3d9face4.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579964433_1a3d9face4.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-21.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-21.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -157,10 +157,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579965568_e2920e3306.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579965568_e2920e3306.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-33.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-33.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -169,10 +169,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580072424_f92c364b8d.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580072424_f92c364b8d.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-23.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-23.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -181,10 +181,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578886992_93a041ff9a.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578886992_93a041ff9a.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-22.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-22.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -193,22 +193,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580072304_0693050cf3.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580072304_0693050cf3.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-25.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-25.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 17 horizontal --}}
-                <div class="gallery-container ">
+                <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580072299_b267bbe257.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580072299_b267bbe257.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-29.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-29.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -217,22 +217,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580196345_22f36f2111.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580196345_22f36f2111.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-28.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-28.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 19 vertical --}}
-                <div class="gallery-container ">
+                <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579751706_6777f3b56a_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579751706_6777f3b56a_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-10.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-10.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -241,10 +241,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579964543_66fa2fc8a5_c.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579964543_66fa2fc8a5_c.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-34.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-34.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -253,22 +253,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579751661_d7f0ec1d15_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579751661_d7f0ec1d15_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-36.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-36.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 22 horizontal --}}
-                <div class="gallery-container ">
+                <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579751611_33645e8c34_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579751611_33645e8c34_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-11.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-11.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -277,10 +277,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578886827_15f455f869.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578886827_15f455f869.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-7.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-7.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -289,10 +289,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580196130_a19bd11c81.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580196130_a19bd11c81.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-6.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-6.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -301,22 +301,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580072014_67b0ef7336.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580072014_67b0ef7336.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-24.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-24.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 26 horizontal --}}
-                <div class="gallery-container  ">
+                <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579964248_4dbdbd6f40.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579964248_4dbdbd6f40.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-12.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-12.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -325,10 +325,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579751286_f0f3caa67d.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579751286_f0f3caa67d.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-32.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-32.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -337,22 +337,22 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579963988_cfdd5413d5.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579963988_cfdd5413d5.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-31.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-31.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 29 horizontal --}}
-                <div class="gallery-container  ">
+                <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580071744_7782e8b328_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580071744_7782e8b328_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-35.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-35.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -361,10 +361,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580195620_fa2139f102_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580195620_fa2139f102_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-9.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-9.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -373,10 +373,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578886247_ba885af420.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578886247_ba885af420.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-19.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-19.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -385,10 +385,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579750981_7daf697060.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579750981_7daf697060.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-26.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-26.jpg') }}"
+                                    alt="Image Gallery Congresos">
                             </a>
                         </div>
                     </div>
@@ -397,9 +397,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579963763_652d068475.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579963763_652d068475.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-17.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-17.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -409,21 +409,21 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578886142_fb6cf71278.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578886142_fb6cf71278.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-30.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-30.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
                     </div>
                 </div>
                 {{-- 35 horizontal --}}
-                <div class="gallery-container ">
+                <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580195330_dabb4df713_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580195330_dabb4df713_w.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-20.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-20.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -433,9 +433,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579751716_2b4dba6d60.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579751716_2b4dba6d60.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-8.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/CONGRESOS/CONGRESOS-8.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -452,7 +452,7 @@
     <style>
         /* *****  GALLERIES ***** */
 
-        /* .gallery-wrapper {
+        .gallery-wrapper {
             padding: 2rem 2rem;
             display: grid;
             justify-content: center;
@@ -460,19 +460,7 @@
             grid-auto-rows: auto;
             grid-gap: 1rem;
             grid-auto-flow: dense;
-        } */
-
-        /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
-        .gallery-wrapper {
-            padding: 2rem 10rem;
-            display: grid;
-            justify-content: center;
-            grid-template-columns: repeat(5, 300px);
-            grid-auto-rows: 200px;
-            grid-gap: 1rem;
-            grid-auto-flow: dense;
         }
-
 
         .gallery-item {
             width: 100%;
@@ -505,7 +493,7 @@
             grid-column: span 1;
         }
 
-        . {
+        .w-2 {
             grid-column: span 2;
         }
 
@@ -525,11 +513,11 @@
             grid-row: span 1;
         }
 
-        . {
+        .h-2 {
             grid-row: span 2;
         }
 
-        . {
+        .h-3 {
             grid-row: span 3;
         }
 
@@ -621,7 +609,7 @@
 
             /*  reseting the css for the class within the divs to show a different way to achieve grid control using the nth childs*/
             .w-1,
-            .,
+            .w-2,
             .w-3,
             .w-4,
             .w-5 {
@@ -629,8 +617,8 @@
             }
 
             .h-1,
-            .,
-            .,
+            .h-2,
+            .h-3,
             .h-4,
             .h-5 {
                 grid-row: span 1;

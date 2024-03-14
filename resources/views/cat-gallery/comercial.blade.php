@@ -13,10 +13,10 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580055389_3a9a33c50e_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580055389_3a9a33c50e_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-43.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-43.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -25,10 +25,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579736051_749736fe47.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579736051_749736fe47.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-30.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-30.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -37,10 +37,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579953518_d761868c7c_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579953518_d761868c7c_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-32.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-32.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -49,10 +49,10 @@
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578877032_834cbbf337.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578877032_834cbbf337.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-9.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-9.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -61,10 +61,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580182325_fe5b22cc08.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580182325_fe5b22cc08.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-29.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-29.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -73,10 +73,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579949443_e6bca7e059_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579949443_e6bca7e059_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-15.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-15.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -85,10 +85,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580055544_ef0af01b50_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580055544_ef0af01b50_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-41.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-41.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -97,10 +97,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578875907_e4f549c0f8.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578875907_e4f549c0f8.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-12.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-12.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -109,10 +109,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579954233_97aaf223f7_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579954233_97aaf223f7_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-33.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-33.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -121,10 +121,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579954388_6a5f4d7515_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579954388_6a5f4d7515_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-42.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-42.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -133,10 +133,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579952948_986d848e55.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579952948_986d848e55.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-17.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-17.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -145,10 +145,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580185005_63c5e0424f.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580185005_63c5e0424f.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-3.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-3.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -157,10 +157,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580061544_2703521728_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580061544_2703521728_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-26.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-26.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -169,10 +169,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578875137_54ea33ec01_c.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578875137_54ea33ec01_c.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-35.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-35.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -181,10 +181,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580185915_3ebe356176.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580185915_3ebe356176.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-13.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-13.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -193,10 +193,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579951733_7417f86c6a.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579951733_7417f86c6a.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-5.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-5.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -205,10 +205,10 @@
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580183695_444024f996.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580183695_444024f996.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-10.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-10.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -217,10 +217,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579734531_a2282fe752_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579734531_a2282fe752_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-37.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-37.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -229,10 +229,10 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580180840_bc73ca1dd6.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580180840_bc73ca1dd6.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-23.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-23.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -241,10 +241,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579735121_9382e46d5b.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579735121_9382e46d5b.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-40.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-40.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -253,10 +253,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580185695_94ffb3c65a.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580185695_94ffb3c65a.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-28.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-28.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -265,10 +265,10 @@
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580180335_ef3acecd35_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580180335_ef3acecd35_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-16.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-16.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -277,10 +277,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580060569_0c0a836dd3.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580060569_0c0a836dd3.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-19.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-19.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -289,10 +289,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579952023_87fa6a302d.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579952023_87fa6a302d.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-20.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-20.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -301,10 +301,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580185535_cb0af6043f_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580185535_cb0af6043f_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-31.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-31.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -313,10 +313,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579947323_4841cd572f.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579947323_4841cd572f.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-11.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-11.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -325,10 +325,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580177940_3235333548_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580177940_3235333548_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-25.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-25.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -337,10 +337,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578869207_fb8fa4f133_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578869207_fb8fa4f133_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-7.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-7.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -349,10 +349,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580178245_5c76d9ebb1_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580178245_5c76d9ebb1_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-36.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-36.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -361,10 +361,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580054509_33cfcdd9ed.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580054509_33cfcdd9ed.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-8.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-8.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -373,10 +373,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580056799_62a1d1c084.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580056799_62a1d1c084.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-38.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-38.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -385,10 +385,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579949033_f49f6cefaf.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579949033_f49f6cefaf.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-39.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-39.jpg') }}"
+                                    alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
@@ -397,9 +397,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580057824_78661dd2c9_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580057824_78661dd2c9_w.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-27.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-27.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -409,9 +409,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580058219_a9bea535c0.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580058219_a9bea535c0.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-22.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-22.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -421,9 +421,9 @@
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579733166_fffa2c270f.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579733166_fffa2c270f.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-24.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-24.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -433,9 +433,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579738351_e14ef8d72d.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579738351_e14ef8d72d.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-4.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-4.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -445,9 +445,9 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580059144_267bb3c2a7.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580059144_267bb3c2a7.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-34.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-34.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
@@ -457,8 +457,8 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53580059374_a70b670d20.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580059374_a70b670d20.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-18.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-18.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
@@ -468,8 +468,8 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53578873227_e74d98e447.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578873227_e74d98e447.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-14.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-14.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
@@ -479,9 +479,9 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579950203_3ded09b7bd.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579950203_3ded09b7bd.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-21.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-21.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
@@ -491,8 +491,8 @@
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53579733266_13772d6507.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579733266_13772d6507.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-1.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-1.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
@@ -502,8 +502,8 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery" href="https://live.staticflickr.com/65535/53579947043_fa9097d29d.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579947043_fa9097d29d.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-2.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-2.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
@@ -513,9 +513,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580178040_4edc7eb633_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580178040_4edc7eb633_z.jpg"
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-6.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-6.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>

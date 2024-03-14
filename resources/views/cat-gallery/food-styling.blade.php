@@ -13,10 +13,10 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579932698_5da2400b25_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579932698_5da2400b25_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-4.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-4.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -25,10 +25,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580162090_8304c81761_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580162090_8304c81761_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-13.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-13.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -37,10 +37,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579716826_82a210ec0c_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579716826_82a210ec0c_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-5.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-5.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -49,10 +49,10 @@
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580164250_0307e3d0d3.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580164250_0307e3d0d3.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-27.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-27.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -61,10 +61,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580161770_9d3fac1085_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580161770_9d3fac1085_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-14.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-14.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -73,10 +73,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580161470_90517f1480_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580161470_90517f1480_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-15.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-15.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -85,10 +85,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579716316_40c76a9353_n.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579716316_40c76a9353_n.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-16.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-16.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -97,10 +97,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580036379_1464a6bb19_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580036379_1464a6bb19_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-2.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-2.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -109,10 +109,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580160165_3414a9926c_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580160165_3414a9926c_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-1.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-1.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -121,10 +121,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578851097_2d45a4f6fa_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578851097_2d45a4f6fa_w.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-3.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-3.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -133,10 +133,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579933323_ac9a9aede5.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579933323_ac9a9aede5.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-22.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-22.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -145,10 +145,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578854977_a15946bd6a.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578854977_a15946bd6a.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-21.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-21.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -157,10 +157,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580163040_6ea6b95e23.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580163040_6ea6b95e23.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-33.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-33.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -169,10 +169,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579932808_87fb403244.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579932808_87fb403244.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-23.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-23.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -181,10 +181,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579928393_37b127a577.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579928393_37b127a577.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-18.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-18.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -193,10 +193,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579933053_7e8097e5b6.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579933053_7e8097e5b6.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-25.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-25.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -205,10 +205,10 @@
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579932208_c4e7c5f7cb.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579932208_c4e7c5f7cb.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-29.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-29.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -217,10 +217,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578854067_3cb7373c76.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578854067_3cb7373c76.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-28.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-28.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -229,10 +229,10 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579715916_e925c539de.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579715916_e925c539de.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-10.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-10.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -241,10 +241,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579715391_577f96747d_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579715391_577f96747d_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-34.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-34.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -253,10 +253,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579929418_3102401493.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579929418_3102401493.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-36.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-36.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -265,10 +265,10 @@
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579929873_8fcee8a7f6.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579929873_8fcee8a7f6.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-11.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-11.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -277,10 +277,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579716896_5295316d4d.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579716896_5295316d4d.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-7.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-7.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -289,10 +289,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579930718_6d874b4b93_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579930718_6d874b4b93_z.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-6.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-6.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -301,10 +301,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580161710_c8dc2b43e2.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580161710_c8dc2b43e2.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-24.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-24.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -313,10 +313,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580161340_63e0b67d7a.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580161340_63e0b67d7a.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-12.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-12.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -325,10 +325,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580162065_8fee4b14b7.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580162065_8fee4b14b7.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-32.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-32.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -337,10 +337,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579717591_8b4d90778e.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579717591_8b4d90778e.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-31.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-31.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -349,10 +349,10 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580036359_cc9a99212d.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580036359_cc9a99212d.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-35.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-35.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -361,10 +361,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580159575_8cb78a3de5.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580159575_8cb78a3de5.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-9.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-9.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -373,10 +373,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580035614_cbd1a9377a.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580035614_cbd1a9377a.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-19.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-19.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -385,10 +385,10 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580159665_cbde82f226.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580159665_cbde82f226.jpg"
-                                    alt="Image Gallery Architecture">
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-26.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-26.jpg') }}"
+                                    alt="Image Gallery Food Styling">
                             </a>
                         </div>
                     </div>
@@ -397,9 +397,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578850602_db534205b2.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578850602_db534205b2.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-17.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-17.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -409,9 +409,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580159300_df92c55c52.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580159300_df92c55c52.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-30.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-30.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -421,9 +421,9 @@
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580159995_08d70626a8.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580159995_08d70626a8.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-20.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-20.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>
@@ -433,9 +433,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579930288_79572306c0.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579930288_79572306c0.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-8.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-8.jpg') }}"
                                     alt="Image Gallery Gastronomy">
                             </a>
                         </div>

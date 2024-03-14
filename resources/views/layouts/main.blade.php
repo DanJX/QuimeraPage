@@ -24,14 +24,9 @@
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/owl.theme.default.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/swiper.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-select.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/tripo-icons.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/jquery.mCustomScrollbar.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/vegas.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/nouislider.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/nouislider.pips.css') }}">
     {{-- STYLE OWNER --}}
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
@@ -41,8 +36,7 @@
 <body>
     {{-- PRELOADER --}}
     <div class="preloader">
-        <img src="{{ asset('assets/images/logos/preloader.gif') }}" class="preloader__image"
-            alt="Preloader Quimera">
+        <img src="{{ asset('assets/images/logos/preloader.gif') }}" class="preloader__image" alt="Preloader Quimera">
     </div>
 
     {{-- MAIN --}}
@@ -54,10 +48,12 @@
                     <div class="row">
                         {{-- LOGO --}}
                         <div class="main-nav__logo-box col-lg-6 col-md-12">
-                            <a aria-label="Go to the home page" href="/" class="main-nav__logo">
-                                <img src="{{ asset('assets/images/logos/QuimeraCreativa-Blanco.webp') }}"
-                                    class="main-logo" width="123" alt="Logotipo Quimera Creativa" />
-                            </a>
+                            <div class="w-100">
+                                <a aria-label="Go to the home page" href="/" class="main-nav__logo">
+                                    <img src="{{ asset('assets/images/logos/QuimeraCreativa-Blanco.webp') }}"
+                                        class="main-logo" width="123" alt="Logotipo Quimera Creativa" />
+                                </a>
+                            </div>
                             <a aria-label="Open menu" href="#" class="side-menu__toggler"><i
                                     class="fa fa-bars"></i></a>
                         </div>
@@ -87,14 +83,15 @@
         {{-- COPYRIGHT & SOCIAL MEDIA --}}
         <div class="site-footer__bottom site-footer__bottom-home-3">
             <div class="container">
-                <p>@ All copyright 2024, Quimera Creativa</p>
+                <p><i aria-hidden="true" class="fa-regular fa-copyright"></i> All copyright 2024, Quimera Creativa</p>
                 <div class="site-footer__social">
                     <a aria-label="Whatsapp" target="_blank"
                         href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">
-                        <i aria-hidden="true" class="fa-brands fa-whatsapp"></i>
+                        <img class="icons-footer" src="{{ asset('assets/images/icons/whatsapp.webp') }}" alt="Icon Whatsapp">
                     </a>
                     <a aria-label="Instagram" href="https://www.instagram.com/quimeracreativamx" target="_blank">
-                        <i aria-hidden="true" class="fa-brands fa-instagram"></i>
+                        <img class="icons-footer" src="{{ asset('assets/images/icons/instagram.webp') }}"
+                            alt="Icon Instagram">
                     </a>
                 </div>
             </div>
@@ -102,7 +99,7 @@
 
         {{-- BTN UP --}}
         <a aria-label="Go to top" href="#" data-target="html" class="scroll-to-target scroll-to-top">
-            <i aria-hidden="true" class="fa fa-angle-up"></i>
+            <i aria-hidden="true" class="fa-solid fa-arrow-up"></i>
         </a>
 
         {{-- SECTION MOBILE --}}
@@ -129,24 +126,27 @@
                 <div class="side-menu__sep"></div>
                 <div class="side-menu__content">
                     <p>
-                        <a aria-label="Send email"
-                            href="mailto:quimeracreativamx@gmail.com">
-                            <i aria-hidden="true" class="fa-solid fa-at"></i>
+                        <a aria-label="Call us" href="tel:+9982350990">
+                            <img class="icons" src="{{ asset('assets/images/icons/phone.webp') }}"
+                                alt="Icon Phone">
                             Quimeracreativamx@gmail.com</a>
                         <br>
-                        <a aria-label="Call us" href="tel:+9982350990">
-                            <i aria-hidden="true" class="fa-solid fa-phone"></i>
-                            9982 3509 90 </a>
+                        <a aria-label="Send email" href="mailto:quimeracreativamx@gmail.com">
+                            <img class="icons" src="{{ asset('assets/images/icons/email.webp') }}"
+                                alt="Icon E-mail">
+                            +52 9982 3509 90 </a>
                     </p>
                     {{-- SOCIAL MEDIA --}}
                     <div class="side-menu__social">
                         <a aria-label="Whatsapp" target="_blank"
                             href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">
-                            <i aria-hidden="true" class="fa-brands fa-whatsapp"></i>
+                            <img class="icons-footer" src="{{ asset('assets/images/icons/whatsapp.webp') }}"
+                                alt="Icon Whatsapp">
                         </a>
                         <a aria-label="Instagram" target="_blank"
                             href="https://www.instagram.com/quimeracreativamx/">
-                            <i aria-hidden="true" class="fab fa-instagram"></i>
+                            <img class="icons-footer" src="{{ asset('assets/images/icons/instagram.webp') }}"
+                                alt="Icon Instagram">
                         </a>
                     </div>
                 </div>
@@ -157,21 +157,13 @@
         <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
         <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
         <script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
-        <script src="{{ asset('assets/js/waypoints.min.js') }}"></script>
-        <script src="{{ asset('assets/js/jquery.counterup.min.js') }}"></script>
         <script src="{{ asset('assets/js/TweenMax.min.js') }}"></script>
         <script src="{{ asset('assets/js/wow.js') }}"></script>
-        <script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
         <script src="{{ asset('assets/js/jquery.ajaxchimp.min.js') }}"></script>
         <script src="{{ asset('assets/js/swiper.min.js') }}"></script>
-        <script src="{{ asset('assets/js/typed-2.0.11.js') }}"></script>
-        <script src="{{ asset('assets/js/vegas.min.js') }}"></script>
-        <script src="{{ asset('assets/js/jquery.validate.min.js') }}"></script>
         <script src="{{ asset('assets/js/bootstrap-select.min.js') }}"></script>
-        <script src="{{ asset('assets/js/countdown.min.js') }}"></script>
         <script src="{{ asset('assets/js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
         <script src="{{ asset('assets/js/nouislider.min.js') }}"></script>
-        <script src="{{ asset('assets/js/isotope.js') }}"></script>
         <script src="{{ asset('assets/js/theme.js') }}"></script>
         @yield('scripts')
 </body>

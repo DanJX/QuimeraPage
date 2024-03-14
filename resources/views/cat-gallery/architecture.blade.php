@@ -13,9 +13,9 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580014319_f8eb6c636b_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580014319_f8eb6c636b_w.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-5.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-5.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -25,9 +25,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579692036_836bdb438c_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579692036_836bdb438c_w.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-13.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-13.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -37,9 +37,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580137795_31ab992583_n.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580137795_31ab992583_n.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-7.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-7.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -49,9 +49,9 @@
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580010159_3143ceab3a_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580010159_3143ceab3a_z.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-16.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-16.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -61,9 +61,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580013559_b178ff0b1a_n.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580013559_b178ff0b1a_n.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-6.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-6.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -73,9 +73,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578827182_fd88d510e2_n.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578827182_fd88d510e2_n.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-9.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-9.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -85,9 +85,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580011244_da7a56d9f2_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580011244_da7a56d9f2_w.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-26.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-26.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -97,9 +97,9 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580014684_435c5a3322.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580014684_435c5a3322.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-29.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-29.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -109,9 +109,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578825837_2a168ed6ea_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578825837_2a168ed6ea_w.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-3.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-3.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -121,9 +121,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580014639_50c341e0c1.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580014639_50c341e0c1.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-28.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-28.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -133,9 +133,9 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580014084_29cacec471.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580014084_29cacec471.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-12.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-12.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -145,9 +145,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580013109_341e00d4c6.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580013109_341e00d4c6.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-17.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-17.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -157,9 +157,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579906003_f7e4fd3147.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579906003_f7e4fd3147.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-18.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-18.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -169,9 +169,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578827192_2c5ed7d3c3.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578827192_2c5ed7d3c3.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-10.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-10.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -181,9 +181,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579905088_3fd6438ccb_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579905088_3fd6438ccb_w.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-8.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-8.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -193,9 +193,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580134530_486629ec00_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580134530_486629ec00_w.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-22.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-22.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -205,9 +205,9 @@
                 <div class="gallery-container w-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580010969_b2e182ecbd_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580010969_b2e182ecbd_z.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-23.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-23.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -217,9 +217,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580131210_735eb3bf97_w.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580131210_735eb3bf97_w.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-4.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-4.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -229,9 +229,9 @@
                 <div class="gallery-container h-2">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579902058_7d9a5a5ee6_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579902058_7d9a5a5ee6_z.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-21.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-21.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -241,9 +241,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580134330_f01489f8e3_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580134330_f01489f8e3_z.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-1.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-1.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -253,9 +253,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578825877_94dc515b65_c.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578825877_94dc515b65_c.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-2.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-2.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -265,9 +265,9 @@
                 <div class="gallery-container h-2 w-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580134290_a8296d65f1.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580134290_a8296d65f1.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-11.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-11.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -277,9 +277,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580134750_45a6c61d2b.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580134750_45a6c61d2b.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-27.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-27.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -289,9 +289,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580138150_70f7f87ebd.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580138150_70f7f87ebd.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-30.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-30.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -301,9 +301,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580133460_13f047b8c2.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580133460_13f047b8c2.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-15.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-15.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -313,9 +313,9 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53579904758_7f90433c65_b.jpg">
-                                <img src="https://live.staticflickr.com/65535/53579904758_7f90433c65_b.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-24.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-24.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -325,9 +325,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580009154_b0fe6059ff_z.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580009154_b0fe6059ff_z.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-32.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-32.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -337,9 +337,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580133145_55ea3d656a_c.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580133145_55ea3d656a_c.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-19.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-19.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -349,9 +349,9 @@
                 <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578823127_aefda472c8.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578823127_aefda472c8.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-31.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-31.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -361,9 +361,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53578823292_130df68b9a.jpg">
-                                <img src="https://live.staticflickr.com/65535/53578823292_130df68b9a.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-20.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-20.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -373,9 +373,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580132680_e2137febf2_c.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580132680_e2137febf2_c.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-14.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-14.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -385,9 +385,9 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a data-fancybox="gallery"
-                                href="https://live.staticflickr.com/65535/53580010684_fdc8f3d3f0_c.jpg">
-                                <img src="https://live.staticflickr.com/65535/53580010684_fdc8f3d3f0_c.jpg"
+                            <a aria-label="Open Gallery" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-25.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-25.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>

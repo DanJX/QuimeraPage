@@ -10,33 +10,33 @@
 @section('main-body')
     <div id="banner-slider-demo-17" class="owl-carousel owl-theme">
         <div class="item slide block-call-to-action"
-            style="background-image: url({{asset('assets/images/slider-home/home.jpeg')}})">
+            style="background-image: url({{ asset('assets/images/slider-home/home.jpeg') }})">
             <div class="black-gradient"></div>
-            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <h2 class="title">Si puedes imaginarlo,<br> puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
         </div>
         <div class="item slide block-call-to-action"
-            style="background-image: url({{asset('assets/images/slider-home/home2.jpg')}})">
+            style="background-image: url({{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-17.jpg') }})">
             <div class="black-gradient"></div>
-            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <h2 class="title">Si puedes imaginarlo,<br> puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
         </div>
         <div class="item slide block-call-to-action"
-            style="background-image: url({{asset('assets/images/slider-home/home3.jpg')}})">
+            style="background-image: url({{ asset('assets/images/gallery/GASTRONOMIA/GASTRONOMIA-27.jpg') }})">
             <div class="black-gradient"></div>
-            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <h2 class="title">Si puedes imaginarlo,<br> puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
         </div>
         <div class="item slide block-call-to-action"
-            style="background-image: url({{asset('assets/images/slider-home/home4.jpg')}})">
+            style="background-image: url({{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-25.jpg') }})">
             <div class="black-gradient"></div>
-            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <h2 class="title">Si puedes imaginarlo,<br> puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
         </div>
         <div class="item slide block-call-to-action"
-            style="background-image: url({{asset('assets/images/slider-home/home5.jpg')}})">
+            style="background-image: url({{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-16.jpg') }})">
             <div class="black-gradient"></div>
-            <h2 class="title">Si puedes imaginarlo, puedes producirlo</h2>
+            <h2 class="title">Si puedes imaginarlo,<br> puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
         </div>
     </div>
@@ -44,17 +44,12 @@
 
 @section('css')
     <style>
-        .below-title,
-        .title {
-            text-shadow: 0 4px 4px #000, 2px 8px 8px #000, 4px 16px 16px #000
-        }
-
         .slide {
             grid-area: slide
         }
 
         .block-call-to-action {
-            background-color: #fff;
+            background-color: #000000;
             color: #fff;
             align-items: center;
             background-position: 50%;
@@ -79,10 +74,9 @@
         }
 
         .title {
-            font-size: 3.5rem;
-            letter-spacing: 8px;
+            font-size: 2rem;
             margin-bottom: 10px;
-            font-weight: 500;
+            font-weight: 300;
             text-align: center;
             z-index: 2;
             text-transform: uppercase;
@@ -91,12 +85,12 @@
 
         .below-title,
         .call-to-action {
-            font-weight: 300;
+            font-weight: lighter;
             text-align: center
         }
 
         .below-title {
-            font-size: 1.8rem;
+            font-size: 1.4rem;
             line-height: 1.3;
             margin-bottom: 25px;
             z-index: 2
@@ -113,11 +107,11 @@
 
         @media only screen and (max-width:425px) {
             .title {
-                font-size: 2.5rem
+                font-size: 1rem
             }
 
             .below-title {
-                font-size: 1.2rem
+                font-size: 14px
             }
         }
 

@@ -8,13 +8,13 @@
 @section('main-body')
     {{-- INFO --}}
     <section class="cta-two">
-        <div class="row m-5">
-            <div class="col-lg-6 wow fadeInLeft">
+        <div class="row">
+            <div class="col-lg-6 m-0 p-0 wow fadeInLeft">
                 <img class="w-100" src="https://live.staticflickr.com/65535/53580017028_b10938f082.jpg" alt="Quimera Page"
-                    class="img-fluid" style="border-radius: 10px">
+                    class="img-fluid" style="border-radius: 0px 10px 10px 0">
             </div>
-            <div class="col-lg-6 wow fadeInRight">
-                <div class="cta-two__content">
+            <div class="col-lg-6 m-0 p-0 wow fadeInRight">
+                <div class="cta-two__content text-justify m-5">
                     <div class="block-title text-left">
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
                         <h3>Trusted & Award Winning <br></h3>
@@ -42,147 +42,148 @@
         <div class="row">
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XAILING.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XAILING.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XCARET.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XPLOR.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XENOTES.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XENOTES.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XENSES.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XENSES.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XOXIMILCO.png') }}" alt="">
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/XPLOR.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/HXA.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/HXM.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/CIRCLE-K.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/DOLPHIN.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XOXIMILCO.webp') }}" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/DREAMS.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/XCARET.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/ECHO.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/HXA.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/GNP.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/HXM.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/HOTELSHOPS.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/LCDLP.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/YACHTS.png') }}" alt="">
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/BREATHLESS.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/IMPRESSIONS.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/LCDLP.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/MEXICANA.png') }}" alt="">
-                </div>
-            </div>
-            <div class="banner-three__col">
-                <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/PEPSICO.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/YACHTS.webp') }}" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/royal-hide.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/DREAMS.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/SECRETS.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/SECRETS.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/TORK.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/BREATHLESS.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/UNICARIBE.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/royal-hide.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/VITROCAR.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/APPLEleisure.webp') }}" alt="">
+                </div>
+            </div>
+          
+        </div>
+        <div class="row">
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/HOTELSHOPS.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/IMPRESSIONS.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/DOLPHIN.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/MEXICANA.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/PEPSICO.webp') }}" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/ANAHUAC.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/ECHO.webp') }}" alt="">
                 </div>
             </div>
             <div class="banner-three__col">
                 <div class="banner-three__box-single">
-                    <img src="{{ asset('assets/images/logos-empresas/APPLEleisure.png') }}" alt="">
+                    <img src="{{ asset('assets/images/logos-empresas/GNP.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/TORK.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/CIRCLE-K.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/VITROCAR.webp') }}" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/ANAHUAC.webp') }}" alt="">
+                </div>
+            </div>
+            <div class="banner-three__col">
+                <div class="banner-three__box-single">
+                    <img src="{{ asset('assets/images/logos-empresas/UNICARIBE.webp') }}" alt="">
                 </div>
             </div>
         </div>
