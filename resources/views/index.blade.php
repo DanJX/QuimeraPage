@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('meta')
-    <title>Home - Quimera</title>
+    <title>Home - Quimera Creativa</title>
     <meta name="keywords"
         content="Fotografía Profesional, Diseño Creativo, Edición de Imágenes, Producción Audiovisual, Contenido Empresarial, Fotografía Corporativa, Diseño de Marca, Edición de Video, Estudio Fotográfico, Servicios Visuales, Creatividad Visual, Fotografía de Eventos, Diseño Publicitario, Producción de Video Corporativo, Retoque Fotográfico, Material Promocional, Captura de Momentos, Marketing Visual, Imágenes de Calidad, Contenido Impactante">
     <meta name="description"

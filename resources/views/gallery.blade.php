@@ -1,8 +1,9 @@
 @extends('layouts.main')
 @section('meta')
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Gallery - Quimera</title>
+    <meta name="description"
+        content="Bienvenido a nuestra colección de galerías temáticas, donde cada imagen cuenta una historia única. Sumérgete en el mundo de la fotografía y descubre la belleza y la diversidad en cada una de nuestras categorías cuidadosamente seleccionadas.">
+    <title>Gallery - Quimera Creativa</title>
 @endsection
 
 @section('main-body')

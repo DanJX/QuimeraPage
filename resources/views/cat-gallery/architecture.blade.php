@@ -1,8 +1,9 @@
 @extends('layouts.main')
 @section('meta')
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Architecture - Quimera</title>
+    <meta name="description"
+        content="Admira la majestuosidad de la arquitectura capturada a través de nuestra lente. Desde imponentes rascacielos hasta antiguas estructuras históricas, esta galería celebra la creatividad y la ingeniería detrás de cada obra arquitectónica.">
+    <title>Architecture - Quimera Creativa</title>
 @endsection
 
 @section('main-body')

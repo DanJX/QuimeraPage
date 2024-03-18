@@ -87,7 +87,8 @@
                 <div class="site-footer__social">
                     <a aria-label="Whatsapp" target="_blank"
                         href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">
-                        <img class="icons-footer" src="{{ asset('assets/images/icons/whatsapp.webp') }}" alt="Icon Whatsapp">
+                        <img class="icons-footer" src="{{ asset('assets/images/icons/whatsapp.webp') }}"
+                            alt="Icon Whatsapp">
                     </a>
                     <a aria-label="Instagram" href="https://www.instagram.com/quimeracreativamx" target="_blank">
                         <img class="icons-footer" src="{{ asset('assets/images/icons/instagram.webp') }}"
@@ -127,13 +128,13 @@
                 <div class="side-menu__content">
                     <p>
                         <a aria-label="Call us" href="tel:+9982350990">
-                            <img class="icons" src="{{ asset('assets/images/icons/phone.webp') }}"
-                                alt="Icon Phone">
-                            Quimeracreativamx@gmail.com</a>
-                        <br>
-                        <a aria-label="Send email" href="mailto:quimeracreativamx@gmail.com">
                             <img class="icons" src="{{ asset('assets/images/icons/email.webp') }}"
                                 alt="Icon E-mail">
+                            hola@quimeracreativa.mx</a>
+                        <br>
+                        <a aria-label="Send email" href="mailto:hola@quimeracreativa.mx">
+                            <img class="icons" src="{{ asset('assets/images/icons/phone.webp') }}"
+                                alt="Icon Phone">
                             +52 9982 3509 90 </a>
                     </p>
                     {{-- SOCIAL MEDIA --}}

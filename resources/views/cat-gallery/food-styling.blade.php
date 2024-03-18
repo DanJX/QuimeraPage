@@ -1,8 +1,9 @@
 @extends('layouts.main')
 @section('meta')
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Food Styling - Quimera</title>
+    <meta name="description"
+        content="Deleita tus sentidos con nuestra galería de gastronomía, donde cada plato es una obra de arte culinaria. Desde exquisitos platos gourmet hasta tentadoras delicias caseras, esta galería te invita a un festín visual que estimulará tu apetito y tu imaginación.">
+    <title>Food Styling - Quimera Creativa</title>
 @endsection
 
 @section('main-body')
@@ -464,15 +465,15 @@
 
         /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
         /* .gallery-wrapper {
-                                                      padding: 2rem 10rem;
-                                                      display: grid;
-                                                      justify-content: center;
-                                                      grid-template-columns: repeat(5, 300px);
-                                                      grid-auto-rows: 200px;
-                                                      grid-gap: 1rem;
-                                                      grid-auto-flow: dense;
-                                                    }
-                                                     */
+                                                                          padding: 2rem 10rem;
+                                                                          display: grid;
+                                                                          justify-content: center;
+                                                                          grid-template-columns: repeat(5, 300px);
+                                                                          grid-auto-rows: 200px;
+                                                                          grid-gap: 1rem;
+                                                                          grid-auto-flow: dense;
+                                                                        }
+                                                                         */
 
         .gallery-item {
             width: 100%;

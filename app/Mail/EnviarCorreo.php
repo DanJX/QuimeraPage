@@ -6,6 +6,7 @@ use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Mail\Mailable;
 use Illuminate\Mail\Mailables\Content;
+use Illuminate\Mail\Mailables\Address;
 use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\SerializesModels;
 
@@ -20,6 +21,8 @@ class EnviarCorreo extends Mailable
     public function __construct(array $datosForm)
     {
         $this->datosForm = $datosForm;
+        $this->nameContact = $datosForm["name"];
+        $this->emailContact = $datosForm["email"];
     }
 
     /**
@@ -28,7 +31,10 @@ class EnviarCorreo extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'Cotización Web - Quimera Page',
+            replyTo: [
+                new Address($this->emailContact, $this->nameContact),
+            ],
+            subject: 'Cotización Web - Quimera Creativa',
         );
     }
 

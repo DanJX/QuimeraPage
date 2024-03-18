@@ -1,8 +1,9 @@
 @extends('layouts.main')
 @section('meta')
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Comercial - Quimera</title>
+    <meta name="description"
+        content="Explora el mundo de los negocios a través de nuestra galería comercial. Desde retratos corporativos hasta imágenes de productos, cada fotografía está diseñada para resaltar la profesionalidad y la visión única de cada empresa.">
+    <title>Comercial - Quimera Creativa</title>
 @endsection
 
 @section('main-body')
@@ -457,7 +458,8 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-18.jpg') }}">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-18.jpg') }}">
                                 <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-18.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
@@ -468,7 +470,8 @@
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-14.jpg') }}">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-14.jpg') }}">
                                 <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-14.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
@@ -476,40 +479,30 @@
                     </div>
                 </div>
                 {{-- 40 --}}
-                <div class="gallery-container h-2">
+                <div class="gallery-container w-2 h-3">
                     <div class="gallery-item">
                         <div class="image">
                             <a aria-label="Open Photo" data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-21.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-21.jpg') }}"
-                                    alt="Image Gallery Comercial">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                {{-- 41 --}}
-                <div class="gallery-container w-2">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-1.jpg') }}">
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-1.jpg') }}">
                                 <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-1.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-                {{-- 42 --}}
+                {{-- 41 --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
-                            <a aria-label="Open Photo" data-fancybox="gallery" href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-2.jpg') }}">
+                            <a aria-label="Open Photo" data-fancybox="gallery"
+                                href="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-2.jpg') }}">
                                 <img src="{{ asset('assets/images/gallery/COMERCIAL/COMERCIAL-2.jpg') }}"
                                     alt="Image Gallery Comercial">
                             </a>
                         </div>
                     </div>
                 </div>
-                {{-- 43 --}}
+                {{-- 42 --}}
                 <div class="gallery-container">
                     <div class="gallery-item">
                         <div class="image">
@@ -521,7 +514,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
@@ -544,15 +536,15 @@
 
         /* Another way to do the same without declaring in the classes - remove h-x w-x from classes */
         /* .gallery-wrapper {
-                                                  padding: 2rem 10rem;
-                                                  display: grid;
-                                                  justify-content: center;
-                                                  grid-template-columns: repeat(5, 300px);
-                                                  grid-auto-rows: 200px;
-                                                  grid-gap: 1rem;
-                                                  grid-auto-flow: dense;
-                                                }
-                                                 */
+                                                      padding: 2rem 10rem;
+                                                      display: grid;
+                                                      justify-content: center;
+                                                      grid-template-columns: repeat(5, 300px);
+                                                      grid-auto-rows: 200px;
+                                                      grid-gap: 1rem;
+                                                      grid-auto-flow: dense;
+                                                    }
+                                                     */
 
         .gallery-item {
             width: 100%;

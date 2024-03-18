@@ -9,7 +9,7 @@ Route::get('/', function () {return view('index');});
 
 // CONTACTO
 Route::get('/contact',            function () {return view('contact');})->name('contact');
-Route::post('enviar-correo',      function () {
+Route::post('/enviar-correo',      function () {
     $datosForm = request()->all();
     Mail::to('dannycanul@hotmail.com')->send(new EnviarCorreo($datosForm));
     return redirect()->route('contact')->with('success', "Correo envíado con éxito");})->name('enviar-correo');

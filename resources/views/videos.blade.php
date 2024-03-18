@@ -1,8 +1,9 @@
 @extends('layouts.main')
 @section('meta')
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Videos - Quimera</title>
+    <meta name="description"
+        content="Bienvenido a nuestra colección de videos, donde el arte y la innovación se unen para contar historias cautivadoras. En esta sección, te invitamos a explorar una amplia gama de producciones audiovisuales que hemos creado para empresas de renombre y marcas líderes en diversos sectores.">
+    <title>Videos - Quimera Creativa</title>
 @endsection
 
 @section('main-body')
@@ -10,12 +11,12 @@
         <div class="row">
             <div class="video-gallery">
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/ARMY-GIFT.gif') }}" alt="Aarmy" />
+                    <img src="{{ asset('assets/images/banner-gifs/ARMY-GIFT.gif') }}" alt="Aarmy Experience" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913495670">
                             <div class="txt-gallery">
-                                <h2>AARMY EXPERIENCE</h2>
-                                <p>Aarmy</p>
+                                <h2>Aarmy Experience</h2>
+                                <p>Hotel Xcaret Arte</p>
                             </div>
                         </a>
                     </div>
@@ -27,18 +28,18 @@
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493984">
                             <div class="txt-gallery">
                                 <h2>Caloncho</h2>
-                                <p>23.09.15</p>
+                                <p>Hotel Xcaret Arte</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/CDLP.gif') }}" alt="TestVideoGift" />
+                    <img src="{{ asset('assets/images/banner-gifs/CDLP.gif') }}" alt="La Casa de la Playa" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913495732">
                             <div class="txt-gallery">
-                                <h2>CDLP</h2>
+                                <h2>La Casa de la Playa</h2>
                                 <p>Horizontal ESP 6</p>
                             </div>
                         </a>
@@ -51,43 +52,43 @@
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913494273">
                             <div class="txt-gallery">
                                 <h2>Elisa Carrillo</h2>
-                                <p>Entrevista</p>
+                                <p>Hotel Xcaret Arte</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/GRETTA.gif') }}" alt="Greta HXA 2" />
+                    <img src="{{ asset('assets/images/banner-gifs/GRETTA.gif') }}" alt="Great Coronado" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493848">
                             <div class="txt-gallery">
-                                <h2>Greta HXA 2</h2>
-                                <p>HXA</p>
+                                <h2>Great Coronado</h2>
+                                <p>Hotel Xcaret Arte</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/HAMMAN.gif') }}" alt="Hamman Reel" />
+                    <img src="{{ asset('assets/images/banner-gifs/HAMMAN.gif') }}" alt="Wellness Center" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493475">
                             <div class="txt-gallery">
-                                <h2>Hamman Reel</h2>
-                                <p>Wellness Center</p>
+                                <h2>Wellness Center</h2>
+                                <p>Impression Moxché</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/HXA.gif') }}" alt="HXA" />
+                    <img src="{{ asset('assets/images/banner-gifs/HXA.gif') }}" alt="Hotel Xcaret Arte" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913497193">
                             <div class="txt-gallery">
-                                <h2>HXA</h2>
-                                <p>Horizontal 7</p>
+                                <h2>Hotel Xcaret Arte</h2>
+                                <p>Hotel Xcaret Arte</p>
                             </div>
                         </a>
                     </div>
@@ -99,7 +100,7 @@
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498442">
                             <div class="txt-gallery">
                                 <h2>Natalia Lafourcade</h2>
-                                <p>Concierto Xcaret</p>
+                                <p>Festival de Vida y Muerte</p>
                             </div>
                         </a>
                     </div>
@@ -118,60 +119,60 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/TNT.gif') }}" alt="TNT HXA" />
+                    <img src="{{ asset('assets/images/banner-gifs/TNT.gif') }}" alt="Premios Óscar" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498692">
                             <div class="txt-gallery">
-                                <h2>TNT</h2>
-                                <p>TNT HXA</p>
+                                <h2>Premios Óscar</h2>
+                                <p>Hotel Xcaret Arte</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/TSM.gif') }}" alt="TSM" />
+                    <img src="{{ asset('assets/images/banner-gifs/TSM.gif') }}" alt="Travesia Sagrada Maya" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498825">
                             <div class="txt-gallery">
-                                <h2>TSM</h2>
-                                <p>TSM 2022</p>
+                                <h2>Travesia Sagrada Maya</h2>
+                                <p>Xcaret</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/VIRGILIO.gif') }}" alt="Virgilio Estero" />
+                    <img src="{{ asset('assets/images/banner-gifs/VIRGILIO.gif') }}" alt="Virgilio Martínez" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913499421">
                             <div class="txt-gallery">
-                                <h2>Virgilio Estero</h2>
-                                <p>V7</p>
+                                <h2>Virgilio Martínez</h2>
+                                <p>Estero</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/XENSES.gif') }}" alt="Xenses Noxe" />
+                    <img src="{{ asset('assets/images/banner-gifs/XENSES.gif') }}" alt="Xenses" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913499926">
                             <div class="txt-gallery">
-                                <h2>Xenses Noxe</h2>
-                                <p>Full</p>
+                                <h2>Xenses</h2>
+                                <p>Xenses</p>
                             </div>
                         </a>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/YATES.gif') }}" alt="Yates Xcaret" />
+                    <img src="{{ asset('assets/images/banner-gifs/YATES.gif') }}" alt="Yatchs Xcaret" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913500255">
                             <div class="txt-gallery">
-                                <h2>Yates Xcaret</h2>
-                                <p>H C1</p>
+                                <h2>Yatchs</h2>
+                                <p>Hoteles Xcaret</p>
                             </div>
                         </a>
                     </div>
@@ -184,10 +185,11 @@
 @section('css')
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
     <style>
-        .fancybox__content{
+        .fancybox__content {
             width: 100% !important;
             height: 100% !important;
         }
+
         .video-gallery {
             position: relative;
             width: 100%

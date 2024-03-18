@@ -1,8 +1,9 @@
 @extends('layouts.main')
 @section('meta')
     <meta name="keywords" content="">
-    <meta name="description" content="">
-    <title>Grupos, Congresos y Convenciones - Quimera</title>
+    <meta name="description"
+        content="Revive los momentos especiales y las emociones compartidas a través de nuestras imágenes de grupos y eventos. Desde bodas elegantes hasta conferencias corporativas, esta galería te transportará a experiencias inolvidables llenas de alegría y camaradería.">
+    <title>Grupos, Congresos y Convenciones - Quimera Creativa</title>
 @endsection
 
 @section('main-body')
