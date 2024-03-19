@@ -35,7 +35,7 @@
                 </div>
                 {{-- FORM --}}
                 <div class="col-lg-7">
-                    <form action="{{ route('enviar-correo') }}" method="POST" class="contact-form" autocomplete="off">
+                    <form action="{{ route('email-send')}}" method="POST" class="contact-form" autocomplete="off">
                         @csrf
                         <div class="contact-one__form">
                             <h2 class="text-center white">Contact Form</h2>
@@ -74,27 +74,8 @@
                             </div>
                         </div>
                     </form>
-                    @if (session('success'))
-                        <div class="success">
-                            <h5>{{ session('success') }}</h5>
-                        </div>
-                    @endif
                 </div>
             </div>
         </div>
     </section>
-@endsection
-
-@section('css')
-    <style>
-        .success {
-            background: #d4edda;
-            color: #155724;
-            border-radius: 10px;
-            text-align: center;
-            padding: 10px;
-            margin-top: 15px;
-            border-color: #d4edda;
-        }
-    </style>
 @endsection
