@@ -33,43 +33,42 @@
                         </div>
                     </div>
                 </div>
-                {{-- FORM --}}
+                {{-- FORM API --}}
                 <div class="col-lg-7">
-                    <form action="{{ route('email-send')}}" method="POST" class="contact-form" autocomplete="off">
-                        @csrf
+                    <form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
+                        <input type="hidden" name="access_key" value="03179320-7eb0-45cf-9291-03abc3b21e03">
+                        <input type="hidden" name="redirect" value="http://127.0.0.1:8000/thankyou">
                         <div class="contact-one__form">
                             <h2 class="text-center white">Contact Form</h2>
-                            <div class="row low-gutters">
-                                <div class="col-md-12">
-                                    <div class="input-group">
-                                        <input required type="text" name="name" placeholder="Your Name">
-                                    </div>
+                            <div class="col-md-12">
+                                <div class="input-group">
+                                    <input required type="text" name="name" placeholder="Your Name">
                                 </div>
-                                <div class="col-md-12">
-                                    <div class="input-group">
-                                        <input required type="email" name="email" placeholder="Email Address">
-                                    </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="input-group">
+                                    <input required type="email" name="email" placeholder="Email Address">
                                 </div>
-                                <div class="col-md-12">
-                                    <div class="input-group">
-                                        <input required type="number" name="phone" placeholder="Phone Number">
-                                    </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="input-group">
+                                    <input required type="number" name="phone" placeholder="Phone Number">
                                 </div>
-                                <div class="col-md-12">
-                                    <div class="input-group">
-                                        <input required type="text" name="subject" placeholder="Subject">
-                                    </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="input-group">
+                                    <input type="text" placeholder="Subject" name="subject">
                                 </div>
-                                <div class="col-md-12">
-                                    <div class="input-group">
-                                        <textarea required name="message" placeholder="Write Message"></textarea>
-                                    </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="input-group">
+                                    <textarea name="message" placeholder="Write message"></textarea>
                                 </div>
-                                <div class="col-md-12">
-                                    <div class="d-flex justify-content-center">
-                                        <button type="submit" class="thm-btn contact-one__btn">Send
-                                            message</button>
-                                    </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="d-flex justify-content-center">
+                                    <button type="submit" class="thm-btn contact-one__btn">Send
+                                        message</button>
                                 </div>
                             </div>
                         </div>

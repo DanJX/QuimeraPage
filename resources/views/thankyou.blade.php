@@ -11,15 +11,19 @@
         <div class="container">
             <div class="row d-flex justify-content-center">
                 {{-- INFO --}}
-                <div class="col-lg-8">
+                <div class="col-lg-6">
                     <div class="contact-one__content">
                         <div class="block-title text-justify">
+                            <div class="d-flex justify-content-center mb-4">
+                                <img class="icon-check" src="{{ asset('assets/images/icons/check.webp') }}"
+                                    alt="Icon confirmed send email">
+                            </div>
                             <h2 class="mb-4 text-center">Thank you for your message</h2>
                             <p>
-                                We appreciate your trust, thank you very much for contacting us, we will be in touch with
-                                you to follow up on your request.
+                                Thank you for contacting us. We appreciate your message. Our team will get in touch with you
+                                to follow your request.
                             </p>
-                            <div class="mt-5 d-flex flex-column contact-infoad">
+                            <div class="mt-5 d-flex flex-column contact-infoad text-center">
                                 <a aria-label="Call us" href="tel:+529982350990">
                                     <img class="icons" src="{{ asset('assets/images/icons/phone.webp') }}"
                                         alt="Icon Phone">
@@ -30,9 +34,6 @@
                                         alt="Icon E-mail">
                                     hola@quimeracreativa.mx
                                 </a>
-                            </div>
-                            <div class="success contact">
-                                <h5>Email sent successfully</h5>
                             </div>
                             <div class="d-flex justify-content-center mt-5">
                                 <a aria-label="Go to the home" href="/" class="thm-btn contact-one__btn">Go to the
@@ -48,24 +49,9 @@
 
 @section('css')
     <style>
-        .success {
-            background: #d4edda;
-            color: #155724;
-            border-radius: 10px;
-            text-align: center;
-            padding: 10px;
-            margin-top: 15px;
-            border-color: #d4edda;
-        }
-
-        .failed {
-            background: #eec0c0;
-            color: white;
-            border-radius: 10px;
-            text-align: center;
-            padding: 10px;
-            margin-top: 15px;
-            border-color: #edd4d4;
+        .icon-check {
+            width: 80px;
+            filter: invert(100%);
         }
     </style>
 @endsection

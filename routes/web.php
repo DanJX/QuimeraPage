@@ -1,14 +1,12 @@
 <?php
-
-use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
 // INICIO
 Route::get('/', function () {return view('index');});
 
 // CONTACTO
-Route::get("/contact",         [ContactController::class, "index"])->name("index");
-Route::post("/email-send",      [ContactController::class, "sendEmail"])->name("email-send");
+Route::get('/contact',        function () {return view('contact');});
+Route::get('/thankyou',        function () {return view('thankyou');});
 
 // PAGES
 Route::get('/about',        function () {return view('about');});
