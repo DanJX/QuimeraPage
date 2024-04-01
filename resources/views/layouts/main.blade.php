@@ -12,6 +12,8 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/images/favicons/favicon-32x32.png') }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/images/favicons/favicon-16x16.png') }}">
     <link rel="manifest" href="{{ asset('assets/images/favicons/site.webmanifest') }}">
+    {{-- FONT AWESOME --}}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     {{-- FONT --}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -49,8 +51,10 @@
                                         class="main-logo" width="123" alt="Logotipo Quimera Creativa" />
                                 </a>
                             </div>
-                            <a aria-label="Open menu" href="#" class="side-menu__toggler"><i
-                                    class="fa fa-bars"></i></a>
+                            <a aria-label="Open menu" href="#" class="side-menu__toggler">
+                                <img class="icons-footer" src="{{ asset('assets/images/icons/menu.webp') }}"
+                                    alt="Icon Open menu">
+                            </a>
                         </div>
                         {{-- MENU --}}
                         <div class="main-nav__main-navigation col-lg-6 col-md-12">
@@ -78,7 +82,8 @@
         {{-- COPYRIGHT & SOCIAL MEDIA --}}
         <div class="site-footer__bottom site-footer__bottom-home-3">
             <div class="container">
-                <p><img class="icons-footer" src="{{ asset('assets/images/icons/copyright.webp') }}" alt="icon copyright"> Quimera Creativa 2024, All rights reserved</p>
+                <p><img class="icons-footer" src="{{ asset('assets/images/icons/copyright.webp') }}"
+                        alt="icon copyright"> Quimera Creativa 2024, All rights reserved</p>
                 <div class="site-footer__social">
                     <a aria-label="Whatsapp" target="_blank"
                         href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">
@@ -107,7 +112,8 @@
             <div class="side-menu__block-inner ">
                 <div class="side-menu__top justify-content-end">
                     <a aria-label="Close menu" href="#" class="side-menu__toggler side-menu__close-btn">
-                        <i aria-hidden="true" class="fa-solid fa-xmark"></i>
+                        <img class="icons-footer" src="{{ asset('assets/images/icons/close.webp') }}"
+                            alt="Icon Close menu">
                     </a>
                 </div>
                 {{-- MENU MOBILE --}}
