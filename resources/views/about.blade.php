@@ -8,11 +8,12 @@
 
 @section('main-body')
     {{-- INFO --}}
-    <section class="cta-two">
+    <section class="cta-two mb-3">
         <div class="row">
             <div class="col-lg-6 m-0 p-0 wow fadeInLeft">
-                <img class="w-100" src="https://live.staticflickr.com/65535/53580017028_b10938f082.jpg"
-                    alt="Quimera Creativa About us" class="img-fluid" style="border-radius: 0px 10px 10px 0">
+                <img class="w-100 h-100" style="object-fit:cover;"
+                    src="{{ asset('assets/images/slider-home/home.webp') }}" alt="Quimera Creativa About us"
+                    class="img-fluid" style="border-radius: 0px 10px 10px 0">
             </div>
             <div class="col-lg-6 m-0 p-0 wow fadeInRight">
                 <div class="cta-two__content text-justify m-5">
@@ -25,21 +26,12 @@
                             Desde la captura de imágenes hasta la postproducción, cada etapa se realiza con meticulosidad y
                             atención al detalle para garantizar resultados sobresalientes que superen tus expectativas.</p>
                     </div>
-                    <ul class="list-unstyled cta-two__list">
-                        <li><i aria-hidden="true" class="fa fa-check"></i>Cras tincidunt elit sed lectus porta posuere.</li>
-                        <li><i aria-hidden="true" class="fa fa-check"></i>Nunc eget rhoncus orci. Sed malesuada risus eli.
-                        </li>
-                        <li><i aria-hidden="true" class="fa fa-check"></i>Donec mattis interdum dignissim. Nullam id sodales
-                            diam.</li>
-                        <li><i aria-hidden="true" class="fa fa-check"></i>Suspendisse congue dolor tincidunt nibh iaculis
-                        </li>
-                    </ul>
                 </div>
             </div>
         </div>
     </section>
     {{-- CLIENTES --}}
-    <div class="banner-three__box">
+    <div class="banner-three__box mt-5">
         <div class="block-title">
             <h3 class="text-center mb-3">Customers</h3>
             <hr>

@@ -10,7 +10,7 @@
 @section('main-body')
     <div id="banner-slider-demo-17" class="owl-carousel owl-theme">
         <div class="item slide block-call-to-action"
-            style="background-image: url({{ asset('assets/images/slider-home/home.jpeg') }})">
+            style="background-image: url({{ asset('assets/images/slider-home/home.webp') }})">
             <div class="black-gradient"></div>
             <h2 class="title">Si puedes imaginarlo,<br> puedes producirlo</h2>
             <p class="below-title">Quimera Creativa</p>
@@ -61,7 +61,7 @@
             padding-top: 40px;
             padding-bottom: 40px;
             height: 100vh;
-            min-height: 600px;
+            min-height: 500px;
             position: relative;
         }
 

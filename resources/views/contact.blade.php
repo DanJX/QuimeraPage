@@ -13,11 +13,8 @@
                 {{-- INFO --}}
                 <div class="col-lg-5">
                     <div class="contact-one__content">
-                        <div class="block-title text-justify">
-                            <h2 class="mb-4 text-center">Contact Us</h2>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nam in illum, saepe ratione
-                                dicta! Velit excepturi assumenda consequuntur. Voluptas molestiae cumque perferendis aut,
-                                enim minima libero quas repellendus eius.</p>
+                        <div class="block-title text-center">
+                            <h2 class="mb-4">Contact Us</h2>
                             <div class="mt-5 d-flex flex-column contact-infoad">
                                 <a aria-label="Call us" href="tel:+529982350990">
                                     <img class="icons" src="{{ asset('assets/images/icons/phone.webp') }}"

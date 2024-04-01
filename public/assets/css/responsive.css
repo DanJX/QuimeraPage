@@ -490,6 +490,11 @@
 		padding-left: 15px;
 		padding-right: 15px;
 	}
+	.owl-theme .owl-dots .owl-dot span{
+		width: 18px;
+		height: 18px;
+		margin: 0 5px;
+	}
 }
 
 @media(max-width: 480px) {

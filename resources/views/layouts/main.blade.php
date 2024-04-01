@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:image" content="{{ asset('assets/images/logos/QuimeraCreativa-Negro.webp') }}">
     @yield('meta')
     {{-- FAVICON --}}
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/images/favicons/apple-touch-icon.png') }}">
@@ -17,15 +18,9 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
-    {{-- FONT AWESOME --}}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     {{-- CSS --}}
-    <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/owl.theme.default.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/swiper.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap-select.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/jquery.mCustomScrollbar.min.css') }}">
     {{-- STYLE OWNER --}}
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
@@ -83,7 +78,7 @@
         {{-- COPYRIGHT & SOCIAL MEDIA --}}
         <div class="site-footer__bottom site-footer__bottom-home-3">
             <div class="container">
-                <p><i aria-hidden="true" class="fa-regular fa-copyright"></i> All copyright 2024, Quimera Creativa</p>
+                <p><img class="icons-footer" src="{{ asset('assets/images/icons/copyright.webp') }}" alt="icon copyright"> Quimera Creativa 2024, All rights reserved</p>
                 <div class="site-footer__social">
                     <a aria-label="Whatsapp" target="_blank"
                         href="https://api.whatsapp.com/send?phone=+9982350990&text=Hola,%20Deseo%20hacer%20una%20cotización.">
@@ -100,7 +95,7 @@
 
         {{-- BTN UP --}}
         <a aria-label="Go to top" href="#" data-target="html" class="scroll-to-target scroll-to-top">
-            <i aria-hidden="true" class="fa-solid fa-arrow-up"></i>
+            <img class="icons-footer" src="{{ asset('assets/images/icons/flecha.webp') }}" alt="Icon go to top">
         </a>
 
         {{-- SECTION MOBILE --}}
@@ -156,15 +151,9 @@
 
         {{-- SCRIPTS --}}
         <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
-        <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
         <script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
-        <script src="{{ asset('assets/js/TweenMax.min.js') }}"></script>
         <script src="{{ asset('assets/js/wow.js') }}"></script>
-        <script src="{{ asset('assets/js/jquery.ajaxchimp.min.js') }}"></script>
-        <script src="{{ asset('assets/js/swiper.min.js') }}"></script>
-        <script src="{{ asset('assets/js/bootstrap-select.min.js') }}"></script>
         <script src="{{ asset('assets/js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
-        <script src="{{ asset('assets/js/nouislider.min.js') }}"></script>
         <script src="{{ asset('assets/js/theme.js') }}"></script>
         @yield('scripts')
 </body>

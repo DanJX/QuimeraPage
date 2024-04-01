@@ -10,138 +10,7 @@
     <section class="destinations-three">
         <div class="row">
             <div class="video-gallery">
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/ARMY-GIFT.gif') }}" alt="Aarmy Experience" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913495670">
-                            <div class="txt-gallery">
-                                <h2>Aarmy Experience</h2>
-                                <p>Hotel Xcaret Arte</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/CALONCHO.gif') }}" alt="Caloncho" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493984">
-                            <div class="txt-gallery">
-                                <h2>Caloncho</h2>
-                                <p>Hotel Xcaret Arte</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/CDLP.gif') }}" alt="La Casa de la Playa" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913495732">
-                            <div class="txt-gallery">
-                                <h2>La Casa de la Playa</h2>
-                                <p>Horizontal ESP 6</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/ELISA.gif') }}" alt="Elisa Carrillo" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913494273">
-                            <div class="txt-gallery">
-                                <h2>Elisa Carrillo</h2>
-                                <p>Hotel Xcaret Arte</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/GRETTA.gif') }}" alt="Great Coronado" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493848">
-                            <div class="txt-gallery">
-                                <h2>Great Coronado</h2>
-                                <p>Hotel Xcaret Arte</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/HAMMAN.gif') }}" alt="Wellness Center" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493475">
-                            <div class="txt-gallery">
-                                <h2>Wellness Center</h2>
-                                <p>Impression Moxché</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/HXA.gif') }}" alt="Hotel Xcaret Arte" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913497193">
-                            <div class="txt-gallery">
-                                <h2>Hotel Xcaret Arte</h2>
-                                <p>Hotel Xcaret Arte</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/NATALIA.gif') }}" alt="Natalia Lafourcade" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498442">
-                            <div class="txt-gallery">
-                                <h2>Natalia Lafourcade</h2>
-                                <p>Festival de Vida y Muerte</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/NIKE.gif') }}" alt="Nike" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493764">
-                            <div class="txt-gallery">
-                                <h2>Nike</h2>
-                                <p>Nike</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/TNT.gif') }}" alt="Premios Óscar" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498692">
-                            <div class="txt-gallery">
-                                <h2>Premios Óscar</h2>
-                                <p>Hotel Xcaret Arte</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/TSM.gif') }}" alt="Travesia Sagrada Maya" />
-                    <div class="gallery-item-caption">
-                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498825">
-                            <div class="txt-gallery">
-                                <h2>Travesia Sagrada Maya</h2>
-                                <p>Xcaret</p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
+                {{-- Virgilio --}}
                 <div class="gallery-item">
                     <img src="{{ asset('assets/images/banner-gifs/VIRGILIO.gif') }}" alt="Virgilio Martínez" />
                     <div class="gallery-item-caption">
@@ -153,7 +22,7 @@
                         </a>
                     </div>
                 </div>
-
+                {{-- Xenses --}}
                 <div class="gallery-item">
                     <img src="{{ asset('assets/images/banner-gifs/XENSES.gif') }}" alt="Xenses" />
                     <div class="gallery-item-caption">
@@ -165,14 +34,146 @@
                         </a>
                     </div>
                 </div>
-
+                {{-- Yachts --}}
                 <div class="gallery-item">
-                    <img src="{{ asset('assets/images/banner-gifs/YATES.gif') }}" alt="Yatchs Xcaret" />
+                    <img src="{{ asset('assets/images/banner-gifs/YATES.gif') }}" alt="Yachts Xcaret" />
                     <div class="gallery-item-caption">
                         <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913500255">
                             <div class="txt-gallery">
-                                <h2>Yatchs</h2>
+                                <h2>Yachts</h2>
                                 <p>Hoteles Xcaret</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- TSM --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/TSM.gif') }}" alt="Travesia Sagrada Maya" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498825">
+                            <div class="txt-gallery">
+                                <h2>Travesia Sagrada Maya</h2>
+                                <p>Xcaret</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- CDP --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/CDLP.gif') }}" alt="La Casa de la Playa" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913495732">
+                            <div class="txt-gallery">
+                                <h2>La Casa de la Playa</h2>
+                                <p>La Casa de la Playa</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- HXA --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/HXA.gif') }}" alt="Hotel Xcaret Arte" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913497193">
+                            <div class="txt-gallery">
+                                <h2>Hotel Xcaret Arte</h2>
+                                <p>Hotel Xcaret Arte</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- Army --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/ARMY-GIFT.gif') }}" alt="Aarmy Experience" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913495670">
+                            <div class="txt-gallery">
+                                <h2>Aarmy Experience</h2>
+                                <p>Hotel Xcaret Arte</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- Great --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/GRETTA.gif') }}" alt="Great Coronado" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493848">
+                            <div class="txt-gallery">
+                                <h2>Great Coronado</h2>
+                                <p>Hotel Xcaret Arte</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- Caloncho --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/CALONCHO.gif') }}" alt="Caloncho" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493984">
+                            <div class="txt-gallery">
+                                <h2>Caloncho</h2>
+                                <p>Hotel Xcaret Arte</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- Elisa --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/ELISA.gif') }}" alt="Elisa Carrillo" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913494273">
+                            <div class="txt-gallery">
+                                <h2>Elisa Carrillo</h2>
+                                <p>Hotel Xcaret Arte</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- Hamman --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/HAMMAN.gif') }}" alt="Wellness Center" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493475">
+                            <div class="txt-gallery">
+                                <h2>Wellness Center</h2>
+                                <p>Impression Moxché</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- Nike --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/NIKE.gif') }}" alt="Nike" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913493764">
+                            <div class="txt-gallery">
+                                <h2>Nike</h2>
+                                <p>Nike</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- TNT --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/TNT.gif') }}" alt="Premios Óscar" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498692">
+                            <div class="txt-gallery">
+                                <h2>Premios Óscar</h2>
+                                <p>Hotel Xcaret Arte</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                {{-- Natalia --}}
+                <div class="gallery-item">
+                    <img src="{{ asset('assets/images/banner-gifs/NATALIA.gif') }}" alt="Natalia Lafourcade" />
+                    <div class="gallery-item-caption">
+                        <a aria-label="Open Gallery" data-fancybox="gallery" href="https://vimeo.com/913498442">
+                            <div class="txt-gallery">
+                                <h2>Natalia Lafourcade</h2>
+                                <p>Festival de Vida y Muerte</p>
                             </div>
                         </a>
                     </div>

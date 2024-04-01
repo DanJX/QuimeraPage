@@ -27,8 +27,8 @@
                     <div class="gallery-item">
                         <div class="image">
                             <a aria-label="Open Gallery" data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-13.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-13.jpg') }}"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-8.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-8.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -183,8 +183,8 @@
                     <div class="gallery-item">
                         <div class="image">
                             <a aria-label="Open Gallery" data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-8.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-8.jpg') }}"
+                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-25.jpg') }}">
+                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-25.jpg') }}"
                                     alt="Image Gallery Architecture">
                             </a>
                         </div>
@@ -382,19 +382,6 @@
                         </div>
                     </div>
                 </div>
-                {{-- 32 horizontal --}}
-                <div class="gallery-container">
-                    <div class="gallery-item">
-                        <div class="image">
-                            <a aria-label="Open Gallery" data-fancybox="gallery"
-                                href="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-25.jpg') }}">
-                                <img src="{{ asset('assets/images/gallery/ARQUITECTURA/ARQUITECTURA-25.jpg') }}"
-                                    alt="Image Gallery Architecture">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </section>
